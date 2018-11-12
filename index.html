@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="generator" content="pandoc">
-    <title>Software Carpentry: 고성능 컴퓨팅(HPC)</title>
+    <title>Software Carpentry: R Meetup X PRESSer</title>
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.css" />
@@ -37,62 +37,34 @@
       <article>
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
-          <h1 class="title">고성능 컴퓨팅(HPC)</h1>
+          <h1 class="title">R Meetup X PRESSer</h1>
           
+<h2 id="r-meetup-x-presser-시즌-2">R Meetup X PRESSer 시즌 2</h2>
+<p><a href="https://www.facebook.com/groups/tidyverse/">Tidyverse Korea</a>와 <a href="https://www.facebook.com/groups/1473988286034801/">PRESSer</a> 공동으로 R Meetup 시즌2를 시작합니다.</p>
+<h2 id="월-beer-모임-안내입니다.">11월 BEER 모임 안내입니다.</h2>
+<p>먼저 사전에 안내해드린 (맥주 마시면서 세미나 듣는) 형태로 진행되지 못하게 되었음을 말씀드립니다. 양해 부탁드립니다.</p>
+<ul>
+<li>일시 : 2018년 11월 22일 (목요일) 19~21시</li>
+<li>장소 : 토즈 강남2호점 (신논현 6번출구 교보문고 옆 건물)
+<ul>
+<li>10명 선착순으로 모십니다.</li>
+</ul></li>
+<li>발표 : 이광춘 (설명가능한 기계학습), 나성호 (Kevin Seongho Na) (기업리뷰 분석 시리즈를 간단하게)</li>
+<li>기타:
 <ol style="list-style-type: decimal">
-<li><a href="hpc-basic.html">고성능 컴퓨팅 기초</a>
+<li>페이스북 Tidyverse Korea 회원들에게도 공지될 예정입니다.
 <ul>
-<li><a href="basic-numbers.html">숫자 (Numbers)</a></li>
-<li><a href="basic-ssh.html">원격 작업 (Working Remotely)</a></li>
-<li><a href="http://statkclee.github.io/open-source-for-business/ch01-philosophy.html">자유 소프트웨어와 오픈 소스 소프트웨어에 대한 철학</a></li>
-<li><a href="http://statkclee.github.io/open-source-for-business/ch02-tutorial-on-computer-software.html">컴퓨터 소프트웨어 과외</a></li>
-<li><a href="compile-install-call.html">컴파일, 설치, 호출</a></li>
+<li>세미나와 맥주가 병렬처리되지 않고, 순차처리로 바뀌었으니 알고리즘에 착오없으시기 바랍니다.</li>
 </ul></li>
-<li>클라우드 OS
+<li>세미나 끝나고 뒷풀이 간단하게 하겠습니다.</li>
+<li>회비를 미리 내지 않으셔도 됩니다.
 <ul>
-<li><a href="openstack.html">오픈스택(OpenStack)</a>: 프로그래밍 가능한 IT 인프라</li>
-<li><a href="bluemix.html">클라우드 파운드리-블루믹스</a><br />
-</li>
+<li>참여하시는분 대상으로 1/N 더치페이합니다.</li>
 </ul></li>
-<li><a href="rpi-super-computer.html">고성능 컴퓨팅 개발</a> <a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> <a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a>
-<ul>
-<li><a href="rpi-super-bom.html">RPi 슈퍼 컴퓨터 자재명세서</a></li>
-<li><a href="rpi-manual.html">라즈베리파이 클러스터(병렬연결) - 제작매뉴얼</a>
-<ul>
-<li>MPI 프로그램을 통해 모든 라즈베리파이를 하나로 병렬연결한다.</li>
-</ul></li>
-<li><a href="rpi-network.html">네트워크 관계없이 외부에서 라즈베리파이 접속하기</a>
-<ul>
-<li>내부 ip 설정 및 고정 ip 지정</li>
-<li>weaved : 외부에서 포트를 통한 라즈베리파이 접속 프로그램</li>
-</ul></li>
-<li><a href="rpi-benchmark-simple.html">성능시험1 - 간단한 파이썬 코드</a>
-<ul>
-<li>간단한 파이썬 코드를 통해 병렬컴퓨팅 작업을 테스트한다.</li>
-</ul></li>
-<li><a href="rpi-benchmark-hpl.html">성능시험2 - HPL을 통한 객관적 성능</a>
-<ul>
-<li>HPL(High Performance Linpack)을 통해 제작한 슈퍼컴퓨터의 성능을 객관적으로 출력하여 비교한다.</li>
-</ul></li>
-<li><a href="rpi-monitoring.html">tcp socket을 통한 실시간 연결상태 체크</a>
-<ul>
-<li>많은 라즈베리파이의 실시간 관리를 가능하게 한다.</li>
-</ul></li>
-</ul></li>
-</ol>
-<h1 id="고성능-컴퓨팅-참고-문헌">고성능 컴퓨팅 참고 문헌</h1>
-<h2 id="파이썬-교재">파이썬 교재</h2>
-<ul>
-<li><a href="http://www.amazon.com/Parallel-Programming-Python-Jan-Palach/dp/1783288396">Parallel Programming with Python 2014</a></li>
-<li><a href="http://www.amazon.com/Python-Performance-Programming-Gabriele-Lanaro/dp/1783288450">Python High Performance Programming 2013</a></li>
-<li><a href="http://www.amazon.com/Mastering-Python-Performance-Fernando-Doglio/dp/1783989300">Mastering Python High Performance 2015</a></li>
-<li><a href="http://www.springer.com/us/book/9783642302930">A Primer on Scientiﬁc Programming with Python</a></li>
+</ol></li>
 </ul>
-<h2 id="파이썬-논문">파이썬 논문</h2>
-<ul>
-<li>L. Dalcin, P. Kler, R. Paz, and A. Cosimo, Parallel Distributed Computing using Python, Advances in Water Resources, 34(9):1124-1139, 2011. <a href="http://dx.doi.org/10.1016/j.advwatres.2011.04.013" class="uri">http://dx.doi.org/10.1016/j.advwatres.2011.04.013</a></li>
-</ul>
-<h3 id="xwmooc-오픈-교재"><a href="https://statkclee.github.io/xwMOOC/">xwMOOC 오픈 교재</a></h3>
+<h2 id="r-meetup-x-캐글-시즌-1"><a href="r-meetup-season-one.html">R Meetup X 캐글 시즌 1</a></h2>
+<h2 id="xwmooc-오픈-교재"><a href="https://statkclee.github.io/xwMOOC/">xwMOOC 오픈 교재</a></h2>
 <ul>
 <li><strong>컴퓨팅 사고력(Computational Thinking)</strong>
 <ul>
@@ -151,13 +123,6 @@
 <li><a href="https://statkclee.github.io/hq/">저녁이 있는 삶과 새판짜기 - 제7공화국</a></li>
 </ul></li>
 </ul>
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1"><p><a href="http://www.landmarkonme.com/">xwMOOC 개인용슈퍼컴퓨터 개발 프로젝트 - xwMOOC 인턴(서상범)</a><a href="#fnref1">↩</a></p></li>
-<li id="fn2"><p><a href="https://ko.wikipedia.org/wiki/고성능_컴퓨팅">고성능 컴퓨팅, High-Performance Computing</a>은 고급 연산 문제를 풀기 위하여 슈퍼컴퓨터 및 컴퓨터 클러스터를 사용하는 것을 말한다.<a href="#fnref2">↩</a></p></li>
-</ol>
-</div>
         </div>
       </div>
       </article>
