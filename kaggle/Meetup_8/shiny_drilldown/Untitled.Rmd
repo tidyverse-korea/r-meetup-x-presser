@@ -1,0 +1,173 @@
+---
+title: "Highchart DrillDown"
+runtime: shiny
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Example_1
+
+```{r echo=FALSE,message=FALSE,warning=FALSE}
+
+library(highcharter)
+library(data.table)
+library(plyr)
+hcoptslang <- getOption("highcharter.lang")
+hcoptslang$thousandsSep <- ","
+options(highcharter.lang = hcoptslang)
+hcoptslang$numericSymbols <-c( "k", "M", "B" ,"T", "P" ,"E")
+options(highcharter.lang = hcoptslang)
+
+data = data.frame(state.x77,region = state.region,city_name = row.names(state.x77))
+
+data_1 = ddply(data,.(region,city_name),summarise,mean=mean(Income),sum_income=sum(Income))
+
+data_2 = ddply(data,.(region),summarise,mean=mean(Income),sum_income=sum(Income))
+
+renderHighchart({
+  hchart(data_2, "column", hcaes(x = region, y = sum_income)) %>%
+    hc_yAxis(title = list(text = "total_income")) %>%
+    hc_plotOptions(column = list(
+     dataLabels = list(enabled = TRUE)
+    ))
+})
+```
+
+
+## Example_2
+
+```{r echo=FALSE,message=FALSE,warning=FALSE}
+
+library(highcharter)
+library(data.table)
+library(plyr)
+hcoptslang <- getOption("highcharter.lang")
+hcoptslang$thousandsSep <- ","
+options(highcharter.lang = hcoptslang)
+hcoptslang$numericSymbols <-c( "k", "M", "B" ,"T", "P" ,"E")
+options(highcharter.lang = hcoptslang)
+
+data = data.frame(state.x77,region = state.region,city_name = row.names(state.x77))
+
+data_1 = ddply(data,.(region,city_name),summarise,mean=mean(Income),sum_income=sum(Income))
+
+data_2 = ddply(data,.(region),summarise,mean=mean(Income),sum_income=sum(Income))
+
+selectInput("region_name", label = "Region:",
+              choices = levels(data_2$region), selected = levels(data_2$region)[1])
+
+renderHighchart({
+  hchart(subset(data_1,region == input$region_name,select=c(region,city_name, sum_income)), "column", hcaes(x = city_name, y = sum_income)) %>%
+    hc_yAxis(title = list(text = "total_income")) %>%
+    hc_plotOptions(column = list(
+     dataLabels = list(enabled = TRUE)
+    ))
+})
+```
+
+## Example_3
+
+```{r echo=FALSE,message=FALSE,warning=FALSE}
+
+library("highcharter")
+library("dplyr")
+library("purrr")
+
+data_1 = ddply(data,.(region,city_name),summarise,mean=mean(Income),sum_income=sum(Income))
+
+data_2 = ddply(data,.(region),summarise,mean=mean(Income),sum_income=sum(Income))
+
+
+
+df <- data_frame(
+  name = data_2$region,
+  y = data_2$sum_income,
+  drilldown = tolower(data_2$region)
+)
+
+
+ds <- list_parse(df)
+names(ds) <- NULL
+
+hc <- highchart() %>% 
+  hc_chart(type = "column") %>% 
+  hc_title(text = "Basic drilldown") %>% 
+  hc_xAxis(type = "category") %>% 
+  hc_legend(enabled = FALSE) %>% 
+  hc_plotOptions(
+    series = list(
+      boderWidth = 0,
+      dataLabels = list(enabled = TRUE)
+    )
+  ) %>% 
+  hc_add_series(
+    name = "Things",
+    colorByPoint = TRUE,
+    data = ds
+  )
+
+df_1 <- data_frame(
+  name = as_vector(subset(data_1,region == "Northeast",city_name)),
+  value = as_vector(subset(data_1,region == "Northeast",sum_income))
+)
+
+df_2 <- data_frame(
+  name = as_vector(subset(data_1,region == "South",city_name)),
+  value = as_vector(subset(data_1,region == "South",sum_income))
+)
+
+df_3 <- data_frame(
+  name = as_vector(subset(data_1,region == "North Central",city_name)),
+  value = as_vector(subset(data_1,region == "North Central",sum_income))
+)
+
+df_4 <- data_frame(
+  name = as_vector(subset(data_1,region == "West",city_name)),
+  value = as_vector(subset(data_1,region == "West",sum_income))
+)
+
+second_el_to_numeric <- function(ls){
+  
+  map(ls, function(x){
+    x[[2]] <- as.numeric(x[[2]])
+    x
+  })
+  
+}
+
+df_1 <- second_el_to_numeric(list_parse2(df_1))
+df_2 <- second_el_to_numeric(list_parse2(df_2))
+df_3 <- second_el_to_numeric(list_parse2(df_3))
+df_4 <- second_el_to_numeric(list_parse2(df_4))
+
+
+hc <- hc %>% 
+  hc_drilldown(
+    allowPointDrilldown = TRUE,
+    series = list(
+      list(
+        id = "northeast",
+        data = df_1
+      ),
+      list(
+        id = "south",
+        data = df_2
+      ),
+      list(
+        id = "north central",
+        data = df_3
+      ),
+      list(
+        id = "west",
+        data = df_4
+      )
+    )
+  )
+
+hc
+```
+
+
