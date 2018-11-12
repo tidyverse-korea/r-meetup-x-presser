@@ -3,8 +3,6 @@ layout: page
 title: R Meetup X PRESSer
 ---
 
-
-
 ## R Meetup X PRESSer 시즌 2
 
 [Tidyverse Korea](https://www.facebook.com/groups/tidyverse/)와 [PRESSer](https://www.facebook.com/groups/1473988286034801/) 공동으로 
