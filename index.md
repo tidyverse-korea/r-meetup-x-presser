@@ -25,6 +25,15 @@ R Meetup 시즌2를 시작합니다.
     1. 회비를 미리 내지 않으셔도 됩니다.
         - 참여하시는분 대상으로 1/N 더치페이합니다.
 
+<iframe
+  src="https://www.eventbrite.com/tickets-external?eid=52510197414&ref=etckt"
+  frameborder="0"
+  width="100%"
+  height="280px"
+  scrolling="auto">
+</iframe>
+
+
 ## [R Meetup X 캐글 시즌 1](r-meetup-season-one.html)
 
 
