@@ -15,7 +15,9 @@ R Meetup 시즌2를 시작합니다.
 - 일시 : 2018년 11월 22일 (목요일) 19~21시
 - 장소 : 토즈 강남2호점 (신논현 6번출구 교보문고 옆 건물)
     * 10명 선착순으로 모십니다.
-- 발표 : 이광춘 (설명가능한 기계학습), 나성호 (Kevin Seongho Na) (기업리뷰 분석 시리즈를 간단하게)
+- 발표 : 
+    * 이광춘 (설명가능한 기계학습): [클라우데라 발표](https://www.slideshare.net/statkclee/cloudera-sessions-2018-datayanolja)
+    * 나성호 (기업리뷰 분석 시리즈): [1](https://mrkevinna.github.io/특강-기업리뷰-분석-1/) [2](https://mrkevinna.github.io/특강-기업리뷰-분석-2/) [3](https://mrkevinna.github.io/특강-기업리뷰-분석-3/)
 - 기타: 
     1. 페이스북 Tidyverse Korea 회원들에게도 공지될 예정입니다. 
         - 세미나와 맥주가 병렬처리되지 않고, 순차처리로 바뀌었으니 알고리즘에 착오없으시기 바랍니다. 
