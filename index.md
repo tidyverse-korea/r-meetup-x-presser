@@ -19,8 +19,9 @@ R Meetup 시즌2를 시작합니다.
 먼저 사전에 안내해드린 (맥주 마시면서 세미나 듣는) 형태로 진행되지 못하게 되었음을 말씀드립니다. 양해 부탁드립니다.
 
 - 일시 : 2018년 11월 22일 (목요일) 19~21시
-- 장소 : 토즈 강남2호점 (신논현 6번출구 교보문고 옆 건물)
-    * 10명 선착순으로 모십니다.
+- 장소 : 아래 구글맵 참조.
+    * 세미나: 토즈 강남1호점 (서울특별시 서초구 서초4동 강남대로 441)
+    * 뒷풀이: [하버스게이트](https://bit.ly/2OMKTYe) (서울특별시 서초구 서초동 1309-9)
 - 발표 : 
     * 이광춘 (설명가능한 기계학습): [클라우데라 발표](https://www.slideshare.net/statkclee/cloudera-sessions-2018-datayanolja)
     * 나성호 (기업리뷰 분석 시리즈): [1](https://mrkevinna.github.io/특강-기업리뷰-분석-1/) [2](https://mrkevinna.github.io/특강-기업리뷰-분석-2/) [3](https://mrkevinna.github.io/특강-기업리뷰-분석-3/)
@@ -30,6 +31,14 @@ R Meetup 시즌2를 시작합니다.
     1. 세미나 끝나고 뒷풀이 간단하게 하겠습니다. 
     1. 회비를 미리 내지 않으셔도 됩니다.
         - 참여하시는분 대상으로 1/N 더치페이합니다.
+
+
+
+|       세미나 장소         |        뒷풀이 장소        |
+|--------------------------|--------------------------|
+|<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.2635470335626!2d127.02307661562861!3d37.50170183559571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca158c1e06e2f%3A0x71b970792753f314!2z7ISc7Jq47Yq567OE7IucIOyEnOy0iOq1rCDshJzstIg064-ZIOqwleuCqOuMgOuhnCA0NDE!5e0!3m2!1sko!2skr!4v1542351682272" width="300" height="180" frameborder="0" style="border:0" allowfullscreen></iframe> |<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.2471090724403!2d127.0232994127263!3d37.50208958541818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca158c8d916fd%3A0xa90e06878bb589fc!2zKOyjvCnsnqDrs7Q!5e0!3m2!1sko!2skr!4v1542351932004" width="300" height="180" frameborder="0" style="border:0" allowfullscreen></iframe>|
+|토즈 강남1호점|[하버스게이트](https://bit.ly/2OMKTYe)|
+
 
 <iframe
   src="https://www.eventbrite.com/tickets-external?eid=52510197414&ref=etckt"
