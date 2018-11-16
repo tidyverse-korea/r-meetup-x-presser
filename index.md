@@ -8,6 +8,12 @@ title: R Meetup X PRESSer
 [Tidyverse Korea](https://www.facebook.com/groups/tidyverse/)와 [PRESSer](https://www.facebook.com/groups/1473988286034801/) 공동으로 
 R Meetup 시즌2를 시작합니다.
 
+> ### 뒷풀이 참석여부 {.callout}
+>
+> 뒷풀이 참석여부를 [여기 클릭](https://docs.google.com/spreadsheets/d/1SCutwzkcNXMvBqlysmGE215NL-RoyTqX6oSPBWGShAQ/edit#gid=0)하여 응답해 주세요.
+> 그리고, 듣고 싶은 밋업 주제도 함께 적어주세요.
+
+
 ## 11월 BEER 모임 안내입니다.
 
 먼저 사전에 안내해드린 (맥주 마시면서 세미나 듣는) 형태로 진행되지 못하게 되었음을 말씀드립니다. 양해 부탁드립니다.
