@@ -8,45 +8,33 @@ title: R Meetup X PRESSer
 [Tidyverse Korea](https://www.facebook.com/groups/tidyverse/)와 [PRESSer](https://www.facebook.com/groups/1473988286034801/) 공동으로 
 R Meetup 시즌2를 시작합니다.
 
-> ### 뒷풀이 참석여부 {.callout}
+> ### 발표주제 및 발제자 모십니다. {.callout}
 >
-> 뒷풀이 참석여부를 [여기 클릭](https://docs.google.com/spreadsheets/d/1SCutwzkcNXMvBqlysmGE215NL-RoyTqX6oSPBWGShAQ/edit#gid=0)하여 응답해 주세요.
-> 그리고, 듣고 싶은 밋업 주제도 함께 적어주세요.
+> 듣고싶은 R Meetup X PRESSer 발표주제와 발제자를 [여기](https://etherpad.net/p/tidyverse)혹은 아래에 적어주세요.
+
+<iframe name="embed_readwrite" src="https://etherpad.net/p/tidyverse?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>
 
 
-## 11월 BEER 모임 안내입니다.
+## 12월 BEER 모임 안내입니다.
 
-먼저 사전에 안내해드린 (맥주 마시면서 세미나 듣는) 형태로 진행되지 못하게 되었음을 말씀드립니다. 양해 부탁드립니다.
+맥주 마시면서 세미나 듣는 형태가 가능할 듯 싶습니다.
 
-- 일시 : 2018년 11월 22일 (목요일) 19~21시
-- 장소 : 아래 구글맵 참조.
-    * 세미나: 토즈 강남1호점 (서울특별시 서초구 서초4동 강남대로 441)
-    * 뒷풀이(변경됨): **[닭갈비전](https://bit.ly/2A7IhyJ) (서울특별시 서초구 서초4동 1309-1 강남디오빌 215호)**
+- 일시 : 2018년 12월 00일 (X요일) 19~21시
+- 장소 : 강남구 역삼역
 - 발표 : 
-    * 이광춘 (설명가능한 기계학습): [클라우데라 발표](https://www.slideshare.net/statkclee/cloudera-sessions-2018-datayanolja)
-    * 나성호 (기업리뷰 분석 시리즈): [1](https://mrkevinna.github.io/특강-기업리뷰-분석-1/) [2](https://mrkevinna.github.io/특강-기업리뷰-분석-2/) [3](https://mrkevinna.github.io/특강-기업리뷰-분석-3/)
+    * 
 - 기타: 
-    1. 페이스북 Tidyverse Korea 회원들에게도 공지될 예정입니다. 
-        - 세미나와 맥주가 병렬처리되지 않고, 순차처리로 바뀌었으니 알고리즘에 착오없으시기 바랍니다. 
-    1. 세미나 끝나고 뒷풀이 간단하게 하겠습니다. 
-    1. 회비를 미리 내지 않으셔도 됩니다.
-        - 참여하시는분 대상으로 1/N 더치페이합니다.
+    1. 세미나 끝나고 원하시는 분 대상으로 뒷풀이 간단히 진행합니다.
+    1. 참여하시는분 대상으로 1/N 더치페이합니다.
 
 
-
-|       세미나 장소         |        뒷풀이 장소        |
-|--------------------------|--------------------------|
-|<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.2635470335626!2d127.02307661562861!3d37.50170183559571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca158c1e06e2f%3A0x71b970792753f314!2z7ISc7Jq47Yq567OE7IucIOyEnOy0iOq1rCDshJzstIg064-ZIOqwleuCqOuMgOuhnCA0NDE!5e0!3m2!1sko!2skr!4v1542351682272" width="300" height="180" frameborder="0" style="border:0" allowfullscreen></iframe> |<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.2520160952654!2d127.0218561157158!3d37.501973835579754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca158ccef0bc7%3A0x16efdf4935b559e5!2z7ISc7Jq47Yq567OE7IucIOyEnOy0iOq1rCDshJzstIg064-ZIDEzMDktMQ!5e0!3m2!1sko!2skr!4v1542770048890" width="300" height="180" frameborder="0" style="border:0" allowfullscreen></iframe>|
-|토즈 강남1호점|[닭갈비전](https://bit.ly/2A7IhyJ)|
+## [R Meetup X 캐글 시즌 2](r-meetup-season-one.html)
 
 
-<iframe
-  src="https://www.eventbrite.com/tickets-external?eid=52510197414&ref=etckt"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
-</iframe>
+|    요일      |발표자|                 주제        |  발표자료   |     비고          |
+|--------------|------|-----------------------------|-------------|-----------|
+|2018.11.22(목)|이광춘|설명가능한 기계학습          |[발표자료](https://www.slideshare.net/statkclee/cloudera-sessions-2018-datayanolja) |클라우데라 |
+|              |나성호|기업리뷰 분석 시리즈         |[1](https://mrkevinna.github.io/특강-기업리뷰-분석-1/) [2](https://mrkevinna.github.io/특강-기업리뷰-분석-2/) [3](https://mrkevinna.github.io/특강-기업리뷰-분석-3/) |순천향대학교 |
 
 
 ## [R Meetup X 캐글 시즌 1](r-meetup-season-one.html)
