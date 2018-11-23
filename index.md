@@ -19,14 +19,14 @@ R Meetup 시즌2를 시작합니다.
 
 맥주 마시면서 세미나 듣는 형태가 가능할 듯 싶습니다.
 
-- 일시 : 2018년 12월 00일 (X요일) 19~21시
-- 장소 : 강남구 역삼역
-- 발표 : 
-    * 
+- 일시 : 2018년 12월 20일 (목요일) 19~21시
+- 장소 : 역삼역 아주빌딩 2층 스파크플러스
+- 발표 :  
 - 기타: 
     1. 세미나 끝나고 원하시는 분 대상으로 뒷풀이 간단히 진행합니다.
     1. 참여하시는분 대상으로 1/N 더치페이합니다.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1409.97441664775!2d127.03604724882364!3d37.501185018013935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3ff0220f31f%3A0x9e182993a28cf4c7!2z7Iqk7YyM7YGs7ZSM65-s7IqkIOyXreyCvOygkA!5e0!3m2!1sko!2skr!4v1542952267263" width="300" height="180" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## [R Meetup X 캐글 시즌 2](r-meetup-season-one.html)
 
