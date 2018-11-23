@@ -8,9 +8,27 @@ title: R Meetup X PRESSer
 [Tidyverse Korea](https://www.facebook.com/groups/tidyverse/)와 [PRESSer](https://www.facebook.com/groups/1473988286034801/) 공동으로 
 R Meetup 시즌2를 시작합니다.
 
+
+<div class = "row">
+  <div class = "col-md-6">
+
 > ### 발표주제 및 발제자 모십니다. {.callout}
 >
 > 듣고싶은 R Meetup X PRESSer 발표주제와 발제자를 [여기](https://etherpad.net/p/tidyverse)혹은 아래에 적어주세요.
+
+  </div>
+  <div class = "col-md-6">
+
+> ### 참가 신청 {.callout}
+>
+> 참석하고 싶으신 분은 [등록 사이트](https://festa.io/events/167)통해서 참가 신청해 주세요.
+
+
+  </div>
+</div>
+
+
+
 
 <iframe name="embed_readwrite" src="https://etherpad.net/p/tidyverse?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>
 
