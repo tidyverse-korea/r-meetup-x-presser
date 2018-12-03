@@ -8,6 +8,21 @@ title: R Meetup X PRESSer
 [Tidyverse Korea](https://www.facebook.com/groups/tidyverse/)와 [PRESSer](https://www.facebook.com/groups/1473988286034801/) 공동으로 
 R Meetup 시즌2를 시작합니다.
 
+## 12월 BEER 모임 안내입니다.
+
+맥주 마시면서 세미나 듣는 형태가 가능할 듯 싶습니다.
+
+- 일시 : 2018년 12월 20일 (목요일) 19~21시
+- 장소 : 역삼역 아주빌딩 2층 스파크플러스
+- 발표 :
+    * 이광춘: "데이터 과학자가 바라본 사기 탐지(Fraud Detection)"
+    * 나성호: "2018 프로야구 기사로 살펴본 이모저모"
+    * 최진영 (xBrain): "AutoML과 머신러닝 툴 개발/사업화 과정의 어려움""
+    * 김준혁 : "RcppMeCab은 왜 만들었나?"
+- 기타 : 
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1409.97441664775!2d127.03604724882364!3d37.501185018013935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3ff0220f31f%3A0x9e182993a28cf4c7!2z7Iqk7YyM7YGs7ZSM65-s7IqkIOyXreyCvOygkA!5e0!3m2!1sko!2skr!4v1542952267263" width="300" height="180" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <div class = "row">
   <div class = "col-md-6">
@@ -28,23 +43,10 @@ R Meetup 시즌2를 시작합니다.
 </div>
 
 
-
-
-<iframe name="embed_readwrite" src="https://etherpad.net/p/tidyverse?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>
-
-
-## 12월 BEER 모임 안내입니다.
-
-맥주 마시면서 세미나 듣는 형태가 가능할 듯 싶습니다.
-
-- 일시 : 2018년 12월 20일 (목요일) 19~21시
-- 장소 : 역삼역 아주빌딩 2층 스파크플러스
-- 발표 :  
-- 기타: 
-    1. 세미나 끝나고 원하시는 분 대상으로 뒷풀이 간단히 진행합니다.
-    1. 참여하시는분 대상으로 1/N 더치페이합니다.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1409.97441664775!2d127.03604724882364!3d37.501185018013935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3ff0220f31f%3A0x9e182993a28cf4c7!2z7Iqk7YyM7YGs7ZSM65-s7IqkIOyXreyCvOygkA!5e0!3m2!1sko!2skr!4v1542952267263" width="300" height="180" frameborder="0" style="border:0" allowfullscreen></iframe>
+> ## 발표주제 및 발제자를 직접 적어 주세요. {.challenge}
+> 
+> <iframe name="embed_readwrite" src="https://etherpad.net/p/tidyverse?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>
+> 
 
 ## [R Meetup X 캐글 시즌 2](r-meetup-season-one.html)
 
