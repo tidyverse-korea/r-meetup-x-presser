@@ -3,14 +3,14 @@ layout: page
 title: R Meetup X PRESSer
 ---
 
-## R Meetup X PRESSer 시즌 2
+## 1. R Meetup X PRESSer 시즌 2
 
 [Tidyverse Korea](https://www.facebook.com/groups/tidyverse/)와 [PRESSer](https://www.facebook.com/groups/1473988286034801/) 공동으로 
 R Meetup 시즌2를 시작합니다.
 
-## 12월 BEER 모임 안내입니다.
+## 2. 12월 BEER 모임 안내
 
-맥주 마시면서 세미나 듣는 형태가 가능할 듯 싶습니다.
+피자와 가벼운 맥주를 마시면서 세미나 듣는 형태가 가능하게 되었습니다.
 
 - 일시 : 2018년 12월 20일 (목요일) 19~21시
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스
@@ -19,36 +19,48 @@ R Meetup 시즌2를 시작합니다.
     * 나성호: "2018 프로야구 기사로 살펴본 이모저모"
     * 최진영 (xBrain): "AutoML과 머신러닝 툴 개발/사업화 과정의 어려움""
     * 김준혁 : "RcppMeCab은 왜 만들었나?"
-- 기타 : 
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1409.97441664775!2d127.03604724882364!3d37.501185018013935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3ff0220f31f%3A0x9e182993a28cf4c7!2z7Iqk7YyM7YGs7ZSM65-s7IqkIOyXreyCvOygkA!5e0!3m2!1sko!2skr!4v1542952267263" width="300" height="180" frameborder="0" style="border:0" allowfullscreen></iframe>
+- 기타 : 이번 Meetup부터 피자와 가볍게 맥주를 마시면서 세미나를 듣고 질문을 자유롭게 할 수 있게 되었습니다.
+- 참가신청은 [등록 사이트](https://festa.io/events/167)에서 직접 해주세요.
 
 <div class = "row">
-  <div class = "col-md-6">
-
-> ### 발표주제 및 발제자 모십니다. {.callout}
->
-> 듣고싶은 R Meetup X PRESSer 발표주제와 발제자를 [여기](https://etherpad.net/p/tidyverse)혹은 아래에 적어주세요.
-
-  </div>
-  <div class = "col-md-6">
+  <div class = "col-md-3">
 
 > ### 참가 신청 {.callout}
 >
-> 참석하고 싶으신 분은 [등록 사이트](https://festa.io/events/167)통해서 참가 신청해 주세요.
+> 참석하고 싶으신 분은 [등록 사이트](https://festa.io/events/167)를 통해서 직접 참가 신청해 주세요.
 
+  </div>
+  <div class = "col-md-9">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1409.97441664775!2d127.03604724882364!3d37.501185018013935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3ff0220f31f%3A0x9e182993a28cf4c7!2z7Iqk7YyM7YGs7ZSM65-s7IqkIOyXreyCvOygkA!5e0!3m2!1sko!2skr!4v1542952267263" width="400" height="280" frameborder="0" style="border:0" allowfullscreen></iframe>
 
   </div>
 </div>
 
 
-> ## 발표주제 및 발제자를 직접 적어 주세요. {.challenge}
+## 3. 발표주제 및 발제자를 모십니다.
+
+<div class = "row">
+  <div class = "col-md-3">
+
+> ### 발표주제 및 발제자 모십니다. {.callout}
+>
+> 듣고싶은 R Meetup X PRESSer 발표주제와 발제자를 [여기](https://etherpad.net/p/tidyverse)를 클릭해서 혹은 직접 적어주세요.
+
+  </div>
+  <div class = "col-md-9">
+
+> ### 발표주제 및 발제자를 직접 적어 주세요. {.challenge}
 > 
 > <iframe name="embed_readwrite" src="https://etherpad.net/p/tidyverse?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>
 > 
 
-## [R Meetup X 캐글 시즌 2](r-meetup-season-one.html)
+  </div>
+</div>
+
+
+
+## 5. [R Meetup X 캐글 시즌 2](r-meetup-season-one.html)
 
 
 |    요일      |발표자|                 주제        |  발표자료   |     비고          |
@@ -57,7 +69,7 @@ R Meetup 시즌2를 시작합니다.
 |              |나성호|기업리뷰 분석 시리즈         |[1](https://mrkevinna.github.io/특강-기업리뷰-분석-1/) [2](https://mrkevinna.github.io/특강-기업리뷰-분석-2/) [3](https://mrkevinna.github.io/특강-기업리뷰-분석-3/) |순천향대학교 |
 
 
-## [R Meetup X 캐글 시즌 1](r-meetup-season-one.html)
+## 6. [R Meetup X 캐글 시즌 1](r-meetup-season-one.html)
 
 xwMOOC R Meetup은 KRUG 1,2대 회장을 역임한 유충현님을 모시고 xwMOOC 이광춘, 캐글뽀개기 이상열이 십시일반 
 노력을 하여 2017년 8월 ~ 2018년 5월까지 매월 총 10회 진행되었습니다.
@@ -67,7 +79,6 @@ KossLab(공개SW 개발자센터)의 공간지원을 받아 나름 쾌적한 환
 - 운영 : [캐글뽀개기](https://www.facebook.com/groups/kagglebreak/)
 - 장소 : 토즈 강남점 / 선릉 패스트파이브
 - 매달 셋째주 수요일
-
 
 
 |요일   |주제   |발표자   |발표자료   |     비고          |
