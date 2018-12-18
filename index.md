@@ -16,8 +16,8 @@ R Meetup 시즌2를 시작합니다.
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스
 - 발표 :
     * 이광춘: ["데이터 과학자가 바라본 사기 탐지(Fraud Detection)"](https://statkclee.github.io/ds-authoring/r_meetup_outlier_anomaly.html)
-    * 나성호: "2018 프로야구 기사로 살펴본 이모저모"
-    * 최진영 (xBrain): "AutoML과 머신러닝 툴 개발/사업화 과정의 어려움""
+    * 나성호: ["2018 프로야구 기사로 살펴본 이모저모"](https://bit.ly/2Ex487i)
+    * 최진영 (xBrain): ["AutoML과 머신러닝 툴 개발/사업화 과정의 어려움"](data/XBrain_Seminar_1220_RMeetUp.pdf)
     * ~~김준혁 : "RcppMeCab은 왜 만들었나?"~~ (2019-01로 연기)
 - 기타 : 이번 Meetup부터 피자와 가볍게 맥주를 마시면서 세미나를 듣고 질문을 자유롭게 할 수 있게 되었습니다.
 - 참가신청은 [등록 사이트](https://festa.io/events/167)에서 직접 해주세요.
