@@ -1,33 +1,42 @@
 ---
 layout: page
-title: R Meetup X PRESSer
+title: "데이터 사이언스 Meetup"
 ---
 
-## 1. R Meetup X PRESSer 시즌 2
+## 1. 데이터 사이언스 Meetup 출범
+
+R Meetup을 시작점으로 출발을 했지만, Meetup에 오시는 분들은 대부분 데이터 사이언스 문제를 풀려고 하는 학생이나 실무에 계신 분들이 많아 이에 부합되도록 
+Meetup 운영을 변경하게 되었습니다.
 
 [Tidyverse Korea](https://www.facebook.com/groups/tidyverse/)와 [PRESSer](https://www.facebook.com/groups/1473988286034801/) 공동으로 
-R Meetup 시즌2를 시작합니다.
+R Meetup 시즌2를 2018년 11월부터 시작했습니다. 2019년부터 "데이터 사이언스" Meetup으로 출발하게 되는 이유는 크게 두가지입니다.
+먼저 R 언어로 코딩하면서 발표하시는 분을 연사로 모시는 것이 어렵고
+R Meetup 시즌1부터 같은 연사분이 계속 발표를 진행하는 것으로 인한 피로감으로 인한 것이 "데이터 사이언스"로 확대하는 직접적인 이유입니다.
+다른 한편으로는 R Meetup에 오시는 분들이 R보다는 "데이터 사이언스" 문제를 갖고 계신분이 많아지고, 
+"데이터 사이언스"에 대한 저변이 확대되어 사회적인 호응이 일어나고 있으며 `reticulate`, `keras`, `sparklyr` 등 다양하며 R 팩키지가 
+출현하면서 더이상 R, 파이썬으로 Meetup을 나눠 진행하는 것은 무의미해졌기 때문입니다.
 
-## 2. 12월 BEER 모임 안내
 
-피자와 가벼운 맥주를 마시면서 세미나 듣는 형태가 가능하게 되었습니다.
+## 2. 1월 데이터 사이언스 Meetup 모임 안내
 
-- 일시 : 2018년 12월 20일 (목요일) 19~21시
-- 장소 : 역삼역 아주빌딩 2층 스파크플러스
-- 발표 :
-    * 이광춘: ["데이터 과학자가 바라본 사기 탐지(Fraud Detection)"](https://statkclee.github.io/ds-authoring/r_meetup_outlier_anomaly.html)
-    * 나성호: ["2018 프로야구 기사로 살펴본 이모저모"](https://bit.ly/2Ex487i)
-    * 최진영 (xBrain): ["AutoML과 머신러닝 툴 개발/사업화 과정의 어려움"](data/XBrain_Seminar_1220_RMeetUp.pdf)
-    * ~~김준혁 : "RcppMeCab은 왜 만들었나?"~~ (2019-01로 연기)
-- 기타 : 이번 Meetup부터 피자와 가볍게 맥주를 마시면서 세미나를 듣고 질문을 자유롭게 할 수 있게 되었습니다.
-- 참가신청은 [등록 사이트](https://festa.io/events/167)에서 직접 해주세요.
+피자와 가벼운 맥주(?)를 마시면서 세미나 듣는 형태가 가능하게 되었습니다.
+
+- 일시 : 2018년 12월 24일 (목요일) 19~21시
+- 장소 : 역삼역 아주빌딩 2층 스파크플러스 (잠정)
+    * 김준혁 : "RcppMeCab은 왜 만들었나?"
+    * 나성호: " 2018 프로야구 기사 댓글을 활용한 텍스트 마이닝 분석" (확정)
+    * 이광춘: "기계학습 클래스 불균형(Class imbalance)" (확정)
+    * 차석근: "스마트 공장" (요청중)
+    * 최진영: "AutoML" (요청중)
+
+- 참가신청은 등록 사이트(모임 확정되면 열릴 예정)에서 직접 해주세요.
 
 <div class = "row">
   <div class = "col-md-3">
 
 > ### 참가 신청 {.callout}
 >
-> 참석하고 싶으신 분은 [등록 사이트](https://festa.io/events/167)를 통해서 직접 참가 신청해 주세요.
+> 참석하고 싶으신 분은 등록 사이트를 통해서 직접 참가 신청해 주세요.
 
   </div>
   <div class = "col-md-9">
@@ -45,7 +54,7 @@ R Meetup 시즌2를 시작합니다.
 
 > ### 발표주제 및 발제자 모십니다. {.callout}
 >
-> 듣고싶은 R Meetup X PRESSer 발표주제와 발제자를 [여기](https://etherpad.net/p/tidyverse)를 클릭해서 혹은 직접 적어주세요.
+> 듣고싶은 "데이터 사이언스" 발표주제와 발제자를 [여기](https://etherpad.net/p/tidyverse)를 클릭해서 혹은 직접 적어주세요.
 
   </div>
   <div class = "col-md-9">
@@ -60,11 +69,14 @@ R Meetup 시즌2를 시작합니다.
 
 
 
-## 5. [R Meetup X 캐글 시즌 2](r-meetup-season-one.html)
+## 5. [데이터 사이언스 Meetup](r-meetup-season-one.html)
 
 
 |    요일      |발표자|                 주제        |  발표자료   |     비고          |
 |--------------|------|-----------------------------|-------------|-----------|
+|2018.11.22(목)|이광춘| 데이터 과학자가 바라본 사기 탐지(Fraud Detection) |[발표자료](https://statkclee.github.io/ds-authoring/r_meetup_outlier_anomaly.html) | 
+|              |나성호| 2018 프로야구 기사로 살펴본 이모저모              |[발표자료](https://bit.ly/2Ex487i) | 
+|              |최진영| AutoML과 머신러닝 툴 개발/사업화 과정의 어려움    |[발표자료](data/XBrain_Seminar_1220_RMeetUp.pdf) | 
 |2018.11.22(목)|이광춘|설명가능한 기계학습          |[발표자료](https://www.slideshare.net/statkclee/cloudera-sessions-2018-datayanolja) |클라우데라 |
 |              |나성호|기업리뷰 분석 시리즈         |[1](https://mrkevinna.github.io/특강-기업리뷰-분석-1/) [2](https://mrkevinna.github.io/특강-기업리뷰-분석-2/) [3](https://mrkevinna.github.io/특강-기업리뷰-분석-3/) |순천향대학교 |
 
