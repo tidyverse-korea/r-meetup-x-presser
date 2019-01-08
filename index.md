@@ -27,7 +27,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     +  장소는 [엑스브레인(XBRAIN)](https://xbrain.team/)에서 후원해 주셨습니다.
 - 발표 :    
     + 김설기: "R for Data Science"
-    + 나영준: "Animal Science" (가칭)
+    + 나영준: "R for animal science: project ```adatalab```"
     + 김준혁: `RcppMeCab`은 왜 만들었나?
     + 차석근: "스마트공장" (가칭)    
 - 참가신청: 등록 사이트 [여기](https://festa.io/events/186/)에서 직접해주세요.
