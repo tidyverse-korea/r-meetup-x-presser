@@ -24,7 +24,8 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 
 - 일시 : 2019년 1월 23일 (수요일) 19:00 ~ 
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스    
-    +  장소는 [엑스브레인(XBRAIN)](https://xbrain.team/)에서 후원해 주셨습니다.
+    + 장소는 [엑스브레인(XBRAIN)](https://xbrain.team/)에서 후원해 주셨습니다.
+    + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)
 - 발표 :    
     + 김설기: "R for Data Science"
     + 나영준: "[R for animal science: project ```adatalab```](data/R for animal science.pptx)" [슬라이드쉐어](https://www.slideshare.net/YoungjunNa/r-for-animal-science) [데이터](data/NewEX11190210201712.xls)
