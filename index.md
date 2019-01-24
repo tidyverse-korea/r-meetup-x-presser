@@ -27,10 +27,10 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 장소는 [엑스브레인(XBRAIN)](https://xbrain.team/)에서 후원해 주셨습니다.
     + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)
 - 발표 :    
-    + 김설기: "R for Data Science"
+    + 김설기: ["R for Data Science"](data/r4ds.pdf)
     + 나영준: "[R for animal science: project ```adatalab```](https://www.slideshare.net/YoungjunNa/r-for-animal-science), [GitHub](https://github.com/YoungjunNa/2019DataSci_Meetup/blob/master/R%20for%20animal%20science.pdf)
     + 김준혁: [`RcppMeCab`은 왜 만들었나?](data/data-science-meetup-190123-RcppMeCab-JK.pdf)
-    + 차석근: ["스마트 공장"](data/20180927_생산현장을 위한 IoT기반의 스마트 솔루션.pdf)
+    + 차석근: ["스마트 공장"](data/데이터 사이언스_스마트공장_차석근(발표자료).ppt)
 - 참가신청: 등록 사이트 [여기](https://festa.io/events/186/)에서 직접해주세요.
     + 세미나 참석자(1만원), 뒷풀이 참가자(3만원)
 
