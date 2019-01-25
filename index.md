@@ -22,29 +22,25 @@ R Meetup 시즌1부터 같은 연사분이 계속 발표를 진행함으로써 �
 데이터 분석가와 과학자들이 만나 피자와 가벼운 맥주를 마시면서 세미나 듣는 방식으로 진행됩니다. 
 R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분들이 모이는 밋업입니다.
 
-- 일시 : 2019년 1월 23일 (수요일) 19:00 ~ 
+- 일시 : 2019년 2월 20일 (수요일) 19:00 ~ 
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스    
     + 장소는 [엑스브레인(XBRAIN)](https://xbrain.team/)에서 후원해 주셨습니다.
-    + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)
+    + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)  &larr;추후 확정 예정
 - 발표 :    
-    + 김설기: ["R for Data Science"](data/r4ds.pdf)
-    + 나영준: "[R for animal science: project ```adatalab```](https://www.slideshare.net/YoungjunNa/r-for-animal-science), [GitHub](https://github.com/YoungjunNa/2019DataSci_Meetup/blob/master/R%20for%20animal%20science.pdf)
-    + 김준혁: [`RcppMeCab`은 왜 만들었나?](data/data-science-meetup-190123-RcppMeCab-JK.pdf)
-    + 차석근: ["스마트 공장"](data/데이터 사이언스_스마트공장_차석근(발표자료).ppt)
-- 참가신청: 등록 사이트 [여기](https://festa.io/events/186/)에서 직접해주세요.
+    + 이광춘: "R에서 바라본 빅데이터 - AWS + 스파크"
+    + 김권현: "R로 하는 빅데이터 분석: 전처리와 시각화"
+    + 나성호: "2018 프로야구 기사 댓글을 활용한 텍스트 마이닝 분석"
+    + 어수행: "Self supervised learning with an application to medical science"
+- 무료 도서 증정
+    + 마이크로소프트웨어 2019년 1월(395호) - 데이터 탐험(Data Adventure) 3권 (확정)
+    + R로 하는 빅데이터 분석 (추진중)
+    + Do it! 쉽게 배우는 R 데이터 분석 (추진중)
+- 참가신청: 등록 사이트 2월1일 티켓 오픈합니다.
     + 세미나 참석자(1만원), 뒷풀이 참가자(3만원)
 
-### 2.1. 상세 일정
+### 2.1. 상세 일정 
 
-| 시간  |  발표자 |           발표제목            |
-|-------|---------|-------------------------------|
-| 18:55 |  이광춘 | 데이터 사이언스 밋업 들어가며 |
-| 19:00 |  김설기 | “R for Data Science” |
-| 19:30 |  나영준 | “R for animal science: Project -adatalab |
-| 20:00 |  김준혁 | RcppMeCab은 왜 만들었나? |
-| 20:30 |  차석근 | “스마트 공장” |
-| 21:00 |  최준영 | AutoML - 다리아 |
-| 21:05 |  나성호 | 자기소개 - 뒷풀이 안내 |
+추후 공지
 
 ### 2.2. 자연어 처리 컨퍼런스 안내
 
@@ -68,16 +64,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 
 ## 3. 발표주제 및 발제자를 모십니다.
 
-### 3.1. 2월 데이터 사이언스 Meetup 모임 추진 계획
-
-- 일시 : 2019년 2월 20일 (수요일) 19:00 ~ 
-- 장소 : 역삼역 아주빌딩 2층 스파크플러스
-- 발표 :    
-    + 이광춘: "R에서 바라본 빅데이터 - AWS + 스파크"
-    + 나성호: "2018 프로야구 기사 댓글을 활용한 텍스트 마이닝 분석"
-    + 어수행: "Self supervised learning with an application to medical science"
-
-### 3.2. 3월 데이터 사이언스 Meetup 모임 추진 계획
+### 3.1. 3월 데이터 사이언스 Meetup 모임 추진 계획
 
 - 일시 : 2019년 3월 20일 (수요일) 19:00 ~ 
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
@@ -85,7 +72,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 이광춘: "대학생을 위한 금융 기본기"
     + 이승준: "" (확정)
 
-### 3.3. 4월 데이터 사이언스 Meetup 모임 추진 계획
+### 3.2. 4월 데이터 사이언스 Meetup 모임 추진 계획
 
 - 일시 : 2019년 4월 24일 (수요일) 19:00 ~ 
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
@@ -117,7 +104,11 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 
 
 |    요일      |발표자|                 주제        |  발표자료   |     비고          |
-|--------------|------|-----------------------------|-------------|-----------|
+|--------------|------|-----------------------------|-------------|-------------------|
+|2019.01.23(수)|김설기|   R for Data Science        |[발표자료](data/r4ds.pdf) |      |
+|              |나영준| R for animal science: project ```adatalab```|[슬라이드쉐어](https://www.slideshare.net/YoungjunNa/r-for-animal-science), [GitHub](https://github.com/YoungjunNa/2019DataSci_Meetup/blob/master/R%20for%20animal%20science.pdf) |      |
+|              |김준혁| `RcppMeCab`은 왜 만들었나? |[발표자료](data/data-science-meetup-190123-RcppMeCab-JK.pdf) |      |
+|              |차석근| 스마트공장 및 데이터 분석 |[발표자료](data/데이터 사이언스_스마트공장_차석근(발표자료).ppt) |      |
 |2018.12.20(목)|이광춘| 데이터 과학자가 바라본 사기 탐지(Fraud Detection) |[발표자료](https://statkclee.github.io/ds-authoring/r_meetup_outlier_anomaly.html) | 
 |              |나성호| 2018 프로야구 기사로 살펴본 이모저모              |[발표자료](https://bit.ly/2Ex487i) | 
 |              |최진영| AutoML과 머신러닝 툴 개발/사업화 과정의 어려움    |[발표자료](data/XBrain_Seminar_1220_RMeetUp.pdf) | 
