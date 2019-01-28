@@ -28,7 +28,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)  &larr;추후 확정 예정
 - 발표 :    
     + 이광춘: "데이터 사이언스 교육"
-    + 나성호: "2018 프로야구 기사 댓글을 활용한 텍스트 마이닝 분석"
+    + 나성호: "카카오 지도 API 핸즈온"
     + 어수행: "Self supervised learning with an application to medical science"
     + 김권현: "R로 하는 빅데이터 분석: 전처리와 시각화"
 - 무료 도서 증정
