@@ -29,7 +29,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 - 발표 :    
     + 이광춘: ["자연어 처리는 R로 가능한가?"](https://statkclee.github.io/text/langcon-2019-tutorial.html)
     + 나성호: ["카카오 지도 API 핸즈온"](https://bit.ly/2NdmhbI)
-    + 어수행: "Self-supervised learning for surgical vision data"
+    + 어수행: ["Self-supervised learning for surgical vision data"](https://drive.google.com/open?id=10IX64Y8Nt924cvVemwlngiM5jHsxe8ft)
     + 김권현: "R로 하는 빅데이터 분석: 전처리와 시각화"
 - 무료 도서 증정
     + 마이크로소프트웨어 2019년 1월(395호) - [데이터 탐험(Data Adventure)](https://www.imaso.co.kr/archives/4654) 3권
