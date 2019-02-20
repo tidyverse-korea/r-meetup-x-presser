@@ -25,12 +25,12 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 - 일시 : 2019년 2월 20일 (수요일) 19:00 ~ 
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스    
     + 장소는 [엑스브레인(XBRAIN)](https://xbrain.team/)에서 후원해 주셨습니다.
-    + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)  &larr;추후 확정 예정
+    + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)
 - 발표 :    
     + 이광춘: ["자연어 처리는 R로 가능한가?"](https://statkclee.github.io/text/langcon-2019-tutorial.html)
     + 나성호: ["카카오 지도 API 핸즈온"](https://bit.ly/2NdmhbI)
-    + 어수행: ["Self-supervised learning for surgical vision data"](https://drive.google.com/open?id=10IX64Y8Nt924cvVemwlngiM5jHsxe8ft)
-    + 김권현: "R로 하는 빅데이터 분석: 전처리와 시각화"
+    + 어수행: ["Self-supervised learning for surgical vision data"](https://drive.google.com/file/d/10IX64Y8Nt924cvVemwlngiM5jHsxe8ft)
+    + ~~김권현: "R로 하는 빅데이터 분석: 전처리와 시각화"~~
 - 무료 도서 증정
     + 마이크로소프트웨어 2019년 1월(395호) - [데이터 탐험(Data Adventure)](https://www.imaso.co.kr/archives/4654) 3권
     + [R로 하는 빅데이터 분석: 전처리와 시각화](http://books.sumeun.org/index.php/2019/01/28/2019rbook01/) 4권
