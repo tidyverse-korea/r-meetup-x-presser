@@ -44,10 +44,6 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 
 추후 공지
 
-### 2.2. 자연어 처리 컨퍼런스 안내
-
-[자연어처리 컨퍼런스 : 자연어 처리의 민낯](https://songys.github.io/2019LangCon/)
-
 <div class = "row">
   <div class = "col-md-3">
 
