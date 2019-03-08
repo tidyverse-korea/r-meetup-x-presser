@@ -119,7 +119,6 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 |2019.02.20(수)|이광춘| 자연어 처리는 R로 가능한가? |[발표자료](https://statkclee.github.io/text/langcon-2019-tutorial.html) |      |
 |              |나성호| 카카오 지도 API 핸즈온 |[발표자료](https://bit.ly/2NdmhbI) |      |
 |              |어수행| Self-supervised learning for surgical vision data |[발표자료](https://bit.ly/2Xe2IET) |      |
-|              |김권현| R로 하는 빅데이터 분석: 전처리와 시각화 |     |      |
 |2019.01.23(수)|김설기|   R for Data Science        |[발표자료](data/r4ds.pdf) |      |
 |              |나영준| R for animal science: project ```adatalab```|[슬라이드쉐어](https://www.slideshare.net/YoungjunNa/r-for-animal-science), [GitHub](https://github.com/YoungjunNa/2019DataSci_Meetup/blob/master/R%20for%20animal%20science.pdf) |      |
 |              |김준혁| `RcppMeCab`은 왜 만들었나? |[발표자료](data/data-science-meetup-190123-RcppMeCab-JK.pdf) |      |
