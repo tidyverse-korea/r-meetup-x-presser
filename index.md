@@ -73,6 +73,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 정도현(AWS 한국 유저그룹 데이터사이언스 모임): "데이터 과학자를 위한 AWS 서비스 소개"
 - 도서 후원
     + 한빛미디어, "핸즈온 머신러닝 - 사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무" - 5권 (클라우데라 후원)
+    + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
 
 ### 5월 데이터 사이언스 Meetup 모임 추진 계획
 
@@ -84,6 +85,9 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 어수행, [휴톰](https://www.hutom.co.kr/): "Python에서 EMR데이터 (생존)분석"
     + 김지연(홍익대): "너의 기분 이모지(emoji)? - 감정기반 이모지 추천 시스템" 
         - [유튜브 동영상](https://www.youtube.com/watch?v=PElfNl7bH-w)
+- 도서 후원
+    + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
+
 ### 6월 데이터 사이언스 Meetup 모임 추진 계획
 
 - 일시 : 2019년 6월 19일 (수요일) 19:00 ~ 
@@ -92,6 +96,9 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 이광춘: "데이터 시각화 기본기"
     + 황규인: "제목 미정"
     + 문건웅(가톨릭의대): "[Conditional Process Analysis using R](https://github.com/cardiomoon/processR)"
+- 도서 후원
+    + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
+
 
 <div class = "row">
   <div class = "col-md-3">
