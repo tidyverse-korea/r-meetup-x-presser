@@ -27,7 +27,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 장소는 [엑스브레인(XBRAIN)](https://xbrain.team/)에서 후원해 주셨습니다.
     + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)
 - 발표 :    
-    + 이광춘: "금융 시계열 자료구조 - xts와 lubridate"
+    + 이광춘: "금융 빅데이터 시각화 - KOSPI 50"
     + 이승준: "S&P500 데이터 수집과 분석"
         - 내용: 파이썬 S&P500 전종목 팩터 데이터 수집, 데이터 분석과 자동화
     + 안상선(엠로보): "이상하고 비정상적이고 괴랄한 금융 시계열 분석  - 금융 데이터 분석 입문자룰 위한 있어보이는 지식" 
@@ -79,18 +79,19 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 - 일시 : 2019년 5월 22일 (수요일) 19:00 ~ 
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
 - 발표 :    
+    + 이광춘: "메르스 데이터 네트워크 분석"
     + 홍원준, [라인웍스](https://linewalks.com/): "의료데이터 기반의 데이터서비스 개발기"
     + 어수행, [휴톰](https://www.hutom.co.kr/): "Python에서 EMR데이터 (생존)분석"
-
+    + 김지연(홍익대): "너의 기분 이모지(emoji)? - 감정기반 이모지 추천 시스템" 
+        - [유튜브 동영상](https://www.youtube.com/watch?v=PElfNl7bH-w)
 ### 6월 데이터 사이언스 Meetup 모임 추진 계획
 
 - 일시 : 2019년 6월 19일 (수요일) 19:00 ~ 
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
 - 발표 :    
     + 이광춘: "데이터 시각화 기본기"
-    + 김지연(홍익대): "너의 기분 이모지(emoji)? - 감정기반 이모지 추천 시스템" 
-        - [유튜브 동영상](https://www.youtube.com/watch?v=PElfNl7bH-w)
-
+    + 황규인: "제목 미정"
+    + 문건웅: "[Conditional Process Analysis using R](https://github.com/cardiomoon/processR)"
 
 <div class = "row">
   <div class = "col-md-3">
@@ -119,7 +120,8 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 |2019.02.20(수)|이광춘| 자연어 처리는 R로 가능한가? |[발표자료](https://statkclee.github.io/text/langcon-2019-tutorial.html) |      |
 |              |나성호| 카카오 지도 API 핸즈온 |[발표자료](https://bit.ly/2NdmhbI) |      |
 |              |어수행| Self-supervised learning for surgical vision data |[발표자료](https://bit.ly/2Xe2IET) |      |
-|2019.01.23(수)|김설기|   R for Data Science        |[발표자료](data/r4ds.pdf) |      |
+
+'./, |2019.01.23(수)|김설기|   R for Data Science        |[발표자료](data/r4ds.pdf) |      |
 |              |나영준| R for animal science: project ```adatalab```|[슬라이드쉐어](https://www.slideshare.net/YoungjunNa/r-for-animal-science), [GitHub](https://github.com/YoungjunNa/2019DataSci_Meetup/blob/master/R%20for%20animal%20science.pdf) |      |
 |              |김준혁| `RcppMeCab`은 왜 만들었나? |[발표자료](data/data-science-meetup-190123-RcppMeCab-JK.pdf) |      |
 |              |차석근| 스마트공장 및 데이터 분석 |[발표자료](data/데이터 사이언스_스마트공장_차석근(발표자료).ppt) |      |
