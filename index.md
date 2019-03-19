@@ -27,7 +27,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 장소는 [엑스브레인(XBRAIN)](https://xbrain.team/)에서 후원해 주셨습니다.
     + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)
 - 발표 :    
-    + 이광춘: "금융 빅데이터 시각화 - KOSPI ~~200~~ 50"
+    + 이광춘: ["금융 빅데이터 시각화 - KOSPI ~~200~~ 50"](https://statkclee.github.io/finance/finance-trelliscope-advanced.html)
     + 이승준: "S&P500 데이터 수집과 분석"
         - 내용: 파이썬 S&P500 전종목 팩터 데이터 수집, 데이터 분석과 자동화
     + 안상선(엠로보): "이상하고 비정상적이고 괴랄한 금융 시계열 분석  - 금융 데이터 분석 입문자룰 위한 있어보이는 지식" 
