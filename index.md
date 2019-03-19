@@ -40,6 +40,8 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (3권) 
 - 참가신청: [등록 사이트](https://festa.io/events/207) 3월1일 티켓 오픈, 당일 매진!!!
     + 세미나 참석자(1만원), 뒷풀이 참가자(3만원)
+- [한국언론진흥재단, "2019 뉴스빅데이터 해커톤 개최"](http://www.kpf.or.kr/site/kpf/ex/board/View.do?cbIdx=254&bcIdx=22283)
+    - [’뉴스 데이터’라고 읽고 ’텍스트 데이터’로 분석하여 사례 만들기](https://statkclee.github.io/ds-authoring/ds_kpf.html#1)
 
 ### 2.1. 상세 일정 
 
