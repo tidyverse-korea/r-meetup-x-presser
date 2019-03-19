@@ -28,13 +28,14 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)
 - 발표 :    
     + 이광춘: ["금융 빅데이터 시각화 - KOSPI ~~200~~ 50"](https://statkclee.github.io/finance/finance-trelliscope-advanced.html)
-    + 이승준: "S&P500 데이터 수집과 분석"
-        - 내용: 파이썬 S&P500 전종목 팩터 데이터 수집, 데이터 분석과 자동화
-    + 안상선(엠로보): "이상하고 비정상적이고 괴랄한 금융 시계열 분석  - 금융 데이터 분석 입문자룰 위한 있어보이는 지식" 
     + 유제성: "인력운영 최적화를 위한 HR Analytics"
         - 인력배정 및 배치(적재적소)
         - 이직율 감소를 위한 근무환경
         - 이직율 관리 Vs. 핵심인재 관리(검토)
+    + 이승준: "S&P500 데이터 수집과 분석"
+        - [S&P500 가격 데이터 수집과 수익률 분석](https://nbviewer.jupyter.org/710b8f0a4bd9a8df91ae1be6c7e838b1)
+        - [S&P500 팩터 데이터 수집과 분석](https://nbviewer.jupyter.org/35a1b0d5248bc9b09513e53be437ac42 )
+    + 안상선(엠로보): "이상하고 비정상적이고 괴랄한 금융 시계열 분석  - 금융 데이터 분석 입문자룰 위한 있어보이는 지식" 
 - 무료 도서 증정
     + [제이펍 출판사 앤디 필드의 유쾌한 R 통계학](http://www.yes24.com/Product/Goods/69668501) (4권)
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (3권) 
