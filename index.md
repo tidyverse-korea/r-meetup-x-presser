@@ -28,10 +28,8 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)
 - 발표 :    
     + 이광춘: ["금융 빅데이터 시각화 - KOSPI ~~200~~ 50"](https://statkclee.github.io/finance/finance-trelliscope-advanced.html)
-    + 유제성: "인력운영 최적화를 위한 HR Analytics"
-        - 인력배정 및 배치(적재적소)
-        - 이직율 감소를 위한 근무환경
-        - 이직율 관리 Vs. 핵심인재 관리(검토)
+    + 유제성: ["인력운영 최적화를 위한 HR Analytics"](data/콜센터-인력-탐색분석.pptx), [R코드](data/콜센터인력.r)
+        - 인력배정 및 배치(적재적소), 이직율 감소를 위한 근무환경, 이직율 관리 Vs. 핵심인재 관리(검토)
     + 이승준: "S&P500 데이터 수집과 분석"
         - [S&P500 가격 데이터 수집과 수익률 분석](https://nbviewer.jupyter.org/710b8f0a4bd9a8df91ae1be6c7e838b1)
         - [S&P500 팩터 데이터 수집과 분석](https://nbviewer.jupyter.org/35a1b0d5248bc9b09513e53be437ac42 )
