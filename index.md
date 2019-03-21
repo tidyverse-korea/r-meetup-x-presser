@@ -132,11 +132,14 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 
 |    요일      |발표자|                 주제        |  발표자료   |     비고          |
 |--------------|------|-----------------------------|-------------|-------------------|
+|2019.03.30(수)|이광춘| 금융 빅데이터 시각화 - KOSPI ~~200~~ 50 |[발표자료](https://statkclee.github.io/finance/finance-trelliscope-advanced.html) |      |
+|              |유제성| 운영인력 최적화를 위한 HR Analytics |[발표자료](data/콜센터-인력-탐색분석.pptx), [R코드](data/콜센터인력.r) |      |
+|              |이승준| S&P500 데이터 수집과 분석 |[발표01](https://nbviewer.jupyter.org/710b8f0a4bd9a8df91ae1be6c7e838b1),[발표02](https://nbviewer.jupyter.org/35a1b0d5248bc9b09513e53be437ac42) |      |
+|              |안상선| 이상하고 비정상적이고 괴랄한 금융 시계열 분석 |[발표자료](data/발표_엠로보_안상선.pdf) |      |
 |2019.02.20(수)|이광춘| 자연어 처리는 R로 가능한가? |[발표자료](https://statkclee.github.io/text/langcon-2019-tutorial.html) |      |
 |              |나성호| 카카오 지도 API 핸즈온 |[발표자료](https://bit.ly/2NdmhbI) |      |
 |              |어수행| Self-supervised learning for surgical vision data |[발표자료](https://bit.ly/2Xe2IET) |      |
-
-'./, |2019.01.23(수)|김설기|   R for Data Science        |[발표자료](data/r4ds.pdf) |      |
+|2019.01.23(수)|김설기|   R for Data Science        |[발표자료](data/r4ds.pdf) |      |
 |              |나영준| R for animal science: project ```adatalab```|[슬라이드쉐어](https://www.slideshare.net/YoungjunNa/r-for-animal-science), [GitHub](https://github.com/YoungjunNa/2019DataSci_Meetup/blob/master/R%20for%20animal%20science.pdf) |      |
 |              |김준혁| `RcppMeCab`은 왜 만들었나? |[발표자료](data/data-science-meetup-190123-RcppMeCab-JK.pdf) |      |
 |              |차석근| 스마트공장 및 데이터 분석 |[발표자료](data/데이터 사이언스_스마트공장_차석근(발표자료).ppt) |      |
