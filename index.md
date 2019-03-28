@@ -35,6 +35,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 - 무료 도서 증정
     + 한빛미디어, ["핸즈온 머신러닝 - 사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무"](http://www.yes24.com/Product/Goods/59878826) - 5권 (클라우데라 후원)
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권)
+    + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
 - 참가신청: [등록 사이트](https://festa.io/events/234) 4월1일 티켓 오픈
     + 세미나 참석자(1만원), 뒷풀이 참가자(3만원)
 - [한국언론진흥재단, "2019 뉴스빅데이터 해커톤 개최"](http://www.kpf.or.kr/site/kpf/ex/board/View.do?cbIdx=254&bcIdx=22283)
@@ -75,6 +76,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 송효진, 넥슨 [`Lovetoken`](https://lovetoken.github.io/): "Tidyverse Before and After"
 - 도서 후원
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
+    + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
 
 ### 6월 데이터 사이언스 Meetup 모임 추진 계획
 
@@ -86,6 +88,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 문건웅(가톨릭의대): "[Conditional Process Analysis using R](https://github.com/cardiomoon/processR)"
 - 도서 후원
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
+    + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
 
 ### 7월 데이터 사이언스 Meetup 모임 추진 계획
 
@@ -96,6 +99,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 안중호(대홍기획): "마케터를 위한 빅데이터"
 - 도서 후원
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
+    + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
 
 ### 8월 데이터 사이언스 Meetup 모임 추진 계획
 
@@ -105,6 +109,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 이광춘: "지도 - 공간 데이터 기본기"
 - 도서 후원
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
+    + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
 
 
 
