@@ -34,6 +34,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 홍운표(DataRobot): "Changes and benefits of Automated ML by DataRobot"
 - 무료 도서 증정
     + 한빛미디어, ["핸즈온 머신러닝 - 사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무"](http://www.yes24.com/Product/Goods/59878826) - 5권 (클라우데라 후원)
+    + [케라스 창시자의 딥러닝 with R](https://jpub.tistory.com/901) - 1권 (제이펍)
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권)
     + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
 - 참가신청: [등록 사이트](https://festa.io/events/234) 4월1일 티켓 오픈
