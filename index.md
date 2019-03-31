@@ -102,6 +102,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 이광춘: ["마케팅 - RFM 및 응용분야"](https://statkclee.github.io/ml/ml-pm-applications.html)
     + 안중호(대홍기획): "마케터를 위한 빅데이터"
     + 이현열, "개인 투자를 위한 금융 데이터 수집과 포트폴리오 구성" 
+    + 이민호(카카오): "데이터분석가의 가벼운 개발환경 : Ipad로 작업해보기"
 - 도서 후원
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
     + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
