@@ -28,7 +28,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 장소는 [엑스브레인(XBRAIN)](https://xbrain.team/)에서 후원해 주셨습니다.
     + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)
 - 발표 :    
-    + 이광춘: [(한국) 데이터 과학자의 클라우드 서비스](https://statkclee.github.io/bigdata/)
+    + 이광춘: [(한국) 데이터 과학자의 클라우드 서비스](https://statkclee.github.io/ds-authoring/ds_meetup_ds_on_cloud.html)
     + 정도현(AWS 한국 유저그룹 데이터사이언스 모임): ["데이터 과학자를 위한 AWS 서비스 소개"](https://www.slideshare.net/JulienSIMON5/aws-reinvent-2018-machine-learning-recap-december-2018)
     + 임상배(클라우데라): "Sparklyr을 활용한 R 코드 분산 처리" 
     + 홍운표(DataRobot): "Changes and benefits of Automated ML by DataRobot"
