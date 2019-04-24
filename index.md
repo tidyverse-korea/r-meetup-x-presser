@@ -30,8 +30,8 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 - 발표 :    
     + 이광춘: [(한국) 데이터 과학자의 클라우드 서비스](https://statkclee.github.io/ds-authoring/ds_meetup_ds_on_cloud.html)
     + 정도현(AWS 한국 유저그룹 데이터사이언스 모임): ["데이터 과학자를 위한 AWS 서비스 소개"](https://www.slideshare.net/JulienSIMON5/aws-reinvent-2018-machine-learning-recap-december-2018)
-    + 임상배(클라우데라): "Sparklyr을 활용한 R 코드 분산 처리" 
-    + 홍운표(DataRobot): "Changes and benefits of Automated ML by DataRobot"
+    + 임상배(클라우데라): ["Sparklyr을 활용한 R 코드 분산 처리"](data/Sparklyr_R.pdf)
+    + 홍운표(DataRobot): ["Changes and benefits of Automated ML by DataRobot"](data/DS_meetup_20190424-DataRobot.pdf)
 - 무료 도서 증정
     + 한빛미디어, ["핸즈온 머신러닝 - 사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무"](http://www.yes24.com/Product/Goods/59878826) - 5권 (클라우데라 후원)
     + [케라스 창시자의 딥러닝 with R](https://jpub.tistory.com/901) - 1권 (제이펍)
