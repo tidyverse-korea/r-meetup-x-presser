@@ -17,30 +17,29 @@ R Meetup 시즌1부터 같은 연사분이 계속 발표를 진행함으로써 �
 출현하면서 더 이상 R, 파이썬 등 언어중심으로 Meetup을 나눠 진행하는 것은 무의미해졌기 때문입니다.
 
 
-## 2. 4월 데이터 사이언스 Meetup 모임 안내
+## 2. 5월 데이터 사이언스 Meetup 모임 안내
 
 데이터 분석가와 과학자들이 만나 피자와 가벼운 맥주를 마시면서 세미나 듣는 방식으로 진행됩니다. 
 R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분들이 모이는 밋업입니다.
 
-
-- 일시 : 2019년 4월 24일 (수요일) 19:00 ~ 
+- 일시 : 2019년 5월 15일 (수요일) 19:00 ~ 
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스
     + 장소는 [엑스브레인(XBRAIN)](https://xbrain.team/)에서 후원해 주셨습니다.
     + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)
 - 발표 :    
-    + 이광춘: [(한국) 데이터 과학자의 클라우드 서비스](https://statkclee.github.io/ds-authoring/ds_meetup_ds_on_cloud.html)
-    + 정도현(AWS 한국 유저그룹 데이터사이언스 모임): ["데이터 과학자를 위한 AWS 서비스 소개"](https://www.slideshare.net/JulienSIMON5/aws-reinvent-2018-machine-learning-recap-december-2018)
-    + 임상배(클라우데라): ["Sparklyr을 활용한 R 코드 분산 처리"](data/Sparklyr_R.pdf)
-    + 홍운표(DataRobot): ["Changes and benefits of Automated ML by DataRobot"](data/DS_meetup_20190424-DataRobot.pdf)
+    + 이광춘: "메르스 데이터 네트워크 분석"
+    + 홍원준, [라인웍스](https://linewalks.com/): "의료데이터 기반의 데이터서비스 개발기"
+    + 어수행, [휴톰](https://www.hutom.co.kr/): "Python에서 EMR데이터 (생존)분석"
+    + 김지연, 홍익대: "너의 기분 이모지(emoji)? - 감정기반 이모지 추천 시스템" 
+        - [유튜브 동영상](https://www.youtube.com/watch?v=PElfNl7bH-w)
+    + 송효진, 넥슨 [`Lovetoken`](https://lovetoken.github.io/): "Tidyverse Before and After"
 - 무료 도서 증정
-    + 한빛미디어, ["핸즈온 머신러닝 - 사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무"](http://www.yes24.com/Product/Goods/59878826) - 5권 (클라우데라 후원)
-    + [케라스 창시자의 딥러닝 with R](https://jpub.tistory.com/901) - 1권 (제이펍)
-    + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권)
+    + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
     + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
+    + 제이펍 1권 - "데이터 분석/ R / 파이썬 교재를 선별"
 - 참가신청: [등록 사이트](https://festa.io/events/234) 4월1일 티켓 오픈
     + 세미나 참석자(1만원), 뒷풀이 참가자(3만원)
-- [한국언론진흥재단, "2019 뉴스빅데이터 해커톤 개최"](http://www.kpf.or.kr/site/kpf/ex/board/View.do?cbIdx=254&bcIdx=22283)
-    - [’뉴스 데이터’라고 읽고 ’텍스트 데이터’로 분석하여 사례 만들기](https://statkclee.github.io/ds-authoring/ds_kpf.html#1)
+
 
 ### 2.1. 상세 일정 
 
@@ -63,22 +62,6 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 
 
 ## 3. 발표주제 및 발제자를 모십니다.
-
-### 5월 데이터 사이언스 Meetup 모임 추진 계획
-
-- 일시 : 2019년 5월 15일 (수요일) 19:00 ~ 
-- 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
-- 발표 :    
-    + 이광춘: "메르스 데이터 네트워크 분석"
-    + 홍원준, [라인웍스](https://linewalks.com/): "의료데이터 기반의 데이터서비스 개발기"
-    + 어수행, [휴톰](https://www.hutom.co.kr/): "Python에서 EMR데이터 (생존)분석"
-    + 김지연, 홍익대: "너의 기분 이모지(emoji)? - 감정기반 이모지 추천 시스템" 
-        - [유튜브 동영상](https://www.youtube.com/watch?v=PElfNl7bH-w)
-    + 송효진, 넥슨 [`Lovetoken`](https://lovetoken.github.io/): "Tidyverse Before and After"
-- 도서 후원
-    + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
-    + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
-    + 제이펍 1권 - "데이터 분석/ R / 파이썬 교재를 선별"
 
 ### 6월 데이터 사이언스 Meetup 모임 추진 계획
 
@@ -147,7 +130,11 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 
 |    요일      |발표자|                 주제        |  발표자료   |     비고          |
 |--------------|------|-----------------------------|-------------|-------------------|
-|2019.03.30(수)|이광춘| 금융 빅데이터 시각화 - KOSPI ~~200~~ 50 |[발표자료](https://statkclee.github.io/finance/finance-trelliscope-advanced.html) |      |
+|2019.04.24(수)|이광춘| (한국) 데이터 과학자의 클라우드 서비스 |[발표자료](https://statkclee.github.io/ds-authoring/ds_meetup_ds_on_cloud.html) |      |
+|              |정도현|데이터 과학자를 위한 AWS 서비스 소개 | [발표자료](https://www.slideshare.net/JulienSIMON5/aws-reinvent-2018-machine-learning-recap-december-2018)| |
+|              |임상배|Sparklyr을 활용한 R 코드 분산 처리 | [발표자료](data/Sparklyr_R.pdf) | |
+|              |홍운표|Changes and benefits of Automated ML by DataRobot |[발표자료](data/DS_meetup_20190424-DataRobot.pdf) |  |
+|2019.03.20(수)|이광춘| 금융 빅데이터 시각화 - KOSPI ~~200~~ 50 |[발표자료](https://statkclee.github.io/finance/finance-trelliscope-advanced.html) |      |
 |              |유제성| 운영인력 최적화를 위한 HR Analytics |[발표자료](data/콜센터-인력-탐색분석.pptx), [R코드](data/콜센터인력.r) |      |
 |              |이승준| S&P500 데이터 수집과 분석 |[발표01](https://nbviewer.jupyter.org/710b8f0a4bd9a8df91ae1be6c7e838b1),[발표02](https://nbviewer.jupyter.org/35a1b0d5248bc9b09513e53be437ac42) |      |
 |              |안상선| 이상하고 비정상적이고 괴랄한 금융 시계열 분석 |[발표자료](data/발표_엠로보_안상선.pdf) |      |
