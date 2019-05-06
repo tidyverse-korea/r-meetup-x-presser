@@ -28,10 +28,10 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)
 - 발표 :    
     + 이광춘: "메르스 데이터 네트워크 분석"
+    + 어수행, [휴톰](https://www.hutom.co.kr/): "Python에서 EMR데이터 (생존)분석"
     + 김지연, 홍익대: "너의 기분 이모지(emoji)? - 감정기반 이모지 추천 시스템" 
         - [유튜브 동영상](https://www.youtube.com/watch?v=PElfNl7bH-w)
     + 홍원준, [라인웍스](https://linewalks.com/): "의료데이터 기반의 데이터서비스 개발기"
-    + 어수행, [휴톰](https://www.hutom.co.kr/): "Python에서 EMR데이터 (생존)분석"
     + 송효진, 넥슨 [`Lovetoken`](https://lovetoken.github.io/): "Tidyverse Before and After"
 - 무료 도서 증정
     + 위키북스 1권 - [파이썬 머신러닝 완벽가이드](https://wikibook.co.kr/ml-definitive-guide/)
