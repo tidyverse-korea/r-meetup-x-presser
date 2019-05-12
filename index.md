@@ -32,7 +32,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 김지연, 홍익대: "너의 기분 이모지(emoji)? - 감정기반 이모지 추천 시스템" 
         - [유튜브 동영상](https://www.youtube.com/watch?v=PElfNl7bH-w)
     + 홍원준, [라인웍스](https://linewalks.com/): "의료데이터 기반의 데이터서비스 개발기"
-    + 송효진, 넥슨 [`Lovetoken`](https://lovetoken.github.io/): "Tidyverse Before and After"
+    + 송효진, 넥슨 [`Lovetoken`](https://lovetoken.github.io/): ["Tidyverse Before and After"](data/송효진.pdf) [GitHub 저장소](https://github.com/lovetoken/Tidyverse-before-after)
 - 무료 도서 증정
     + 위키북스 1권 - [파이썬 머신러닝 완벽가이드](https://wikibook.co.kr/ml-definitive-guide/)
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
