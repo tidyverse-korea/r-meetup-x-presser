@@ -73,7 +73,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
 - 발표 :    
     + 이광춘: "데이터 시각화 기본기"
-    + 서희(LG전자): "제목 미정"
+    + 서희(LG전자): "Reactlog로 Shiny 쉽게 디버깅하기"
     + 황규인, [kini'n creations](https://kuduz.tistory.com/): "글쟁이에게 시각화"
     + 문건웅(가톨릭의대): "[Conditional Process Analysis using R](https://github.com/cardiomoon/processR)"
 - 도서 후원
