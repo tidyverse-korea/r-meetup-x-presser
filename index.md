@@ -17,37 +17,27 @@ R Meetup 시즌1부터 같은 연사분이 계속 발표를 진행함으로써 �
 출현하면서 더 이상 R, 파이썬 등 언어중심으로 Meetup을 나눠 진행하는 것은 무의미해졌기 때문입니다.
 
 
-## 2. 5월 데이터 사이언스 Meetup 모임 안내
+
+
+## 2. 6월 데이터 사이언스 Meetup 모임 안내
 
 데이터 분석가와 과학자들이 만나 피자와 가벼운 맥주를 마시면서 세미나 듣는 방식으로 진행됩니다. 
 R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분들이 모이는 밋업입니다.
 
-- 일시 : 2019년 5월 15일 (수요일) 19:00 ~ 
-- 장소 : 역삼역 아주빌딩 2층 스파크플러스
-    + 장소는 [엑스브레인(XBRAIN)](https://xbrain.team/)에서 후원해 주셨습니다.
-    + 뒷풀이 장소: [삼다족발](https://store.naver.com/restaurants/detail?id=31704778&query=삼다족발)
+- 일시 : 2019년 6월 19일 (수요일) 19:00 ~ 
+- 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
 - 발표 :    
-    + ~~이광춘: "메르스 데이터 네트워크 분석"~~
-    + 어수행, [휴톰](https://www.hutom.co.kr/): "Python에서 EMR데이터 (생존)분석"
-    + 김지연, 홍익대: "너의 기분 이모지(emoji)? - 감정기반 이모지 추천 시스템" 
-        - [유튜브 동영상](https://www.youtube.com/watch?v=PElfNl7bH-w)
-    + 홍원준, [라인웍스](https://linewalks.com/): "의료데이터 기반의 데이터서비스 개발기"
-    + 송효진, 넥슨 [`Lovetoken`](https://lovetoken.github.io/): ["Tidyverse Before and After"](data/송효진.pdf) [GitHub 저장소](https://github.com/lovetoken/Tidyverse-before-after)
-- 무료 도서 증정
-    + 위키북스 1권 - [파이썬 머신러닝 완벽가이드](https://wikibook.co.kr/ml-definitive-guide/)
+    + 이광춘: "데이터 시각화 기본기"
+    + 서희(LG전자): "Reactlog로 Shiny 쉽게 디버깅하기"
+    + 황규인, [kini'n creations](https://kuduz.tistory.com/): "글쟁이에게 시각화"
+    + 문건웅(가톨릭의대): "[Conditional Process Analysis using R](https://github.com/cardiomoon/processR)"
+- 도서 후원
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
     + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
     + 제이펍 1권 - "데이터 분석/ R / 파이썬 교재를 선별"
-    + 라인웍스 2권 후원 
-        - ["밑바닥부터 시작하는 데이터 과학 : 데이터 분석을 위한 파이썬 프로그래밍과 수학·통계 기초"](https://bit.ly/2V4CSB4)
-        - ["밑바닥부터 시작하는 딥러닝 2"](https://bit.ly/2VhfTYy)
-- 참가신청: [등록 사이트](https://festa.io/events/278) 5월1일 티켓 오픈
+- 참가신청: [등록 사이트](https://festa.io/) 6월1일 티켓 오픈
     + 세미나 참석자(1만원), 뒷풀이 참가자(3만원)
 
-
-### 2.1. 상세 일정 
-
-추후 공지
 
 <div class = "row">
   <div class = "col-md-3">
@@ -66,20 +56,6 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 
 
 ## 3. 발표주제 및 발제자를 모십니다.
-
-### 6월 데이터 사이언스 Meetup 모임 추진 계획
-
-- 일시 : 2019년 6월 19일 (수요일) 19:00 ~ 
-- 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
-- 발표 :    
-    + 이광춘: "데이터 시각화 기본기"
-    + 서희(LG전자): "Reactlog로 Shiny 쉽게 디버깅하기"
-    + 황규인, [kini'n creations](https://kuduz.tistory.com/): "글쟁이에게 시각화"
-    + 문건웅(가톨릭의대): "[Conditional Process Analysis using R](https://github.com/cardiomoon/processR)"
-- 도서 후원
-    + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
-    + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
-    + 제이펍 1권 - "데이터 분석/ R / 파이썬 교재를 선별"
 
 ### 7월 데이터 사이언스 Meetup 모임 추진 계획
 
@@ -135,6 +111,10 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 
 |    요일      |발표자|                 주제        |  발표자료   |     비고          |
 |--------------|------|-----------------------------|-------------|-------------------|
+|2019.05.15(수)|어수행| "Python에서 EMR데이터 (생존)분석" |[발표자료](data/EMR_Analysis_Python_190515.pdf) |      |
+|              |김지연| "너의 기분 이모지(emoji)? - 감정기반 이모지 추천 시스템" |발표자료 |      |
+|              |홍원준| "의료데이터 기반의 데이터서비스 개발기" |발표자료 |      |
+|              |송효진| "Tidyverse Before and After" |[발표자료](data/송효진.pdf)|     |
 |2019.04.24(수)|이광춘| (한국) 데이터 과학자의 클라우드 서비스 |[발표자료](https://statkclee.github.io/ds-authoring/ds_meetup_ds_on_cloud.html) |      |
 |              |정도현|데이터 과학자를 위한 AWS 서비스 소개 | [발표자료](https://www.slideshare.net/JulienSIMON5/aws-reinvent-2018-machine-learning-recap-december-2018)| |
 |              |임상배|Sparklyr을 활용한 R 코드 분산 처리 | [발표자료](data/Sparklyr_R.pdf) | |
