@@ -111,9 +111,9 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 
 |    요일      |발표자|                 주제        |  발표자료   |     비고          |
 |--------------|------|-----------------------------|-------------|-------------------|
-|2019.05.15(수)|어수행| "Python에서 EMR데이터 (생존)분석" |[발표자료](data/EMR_Analysis_Python_190515.pdf) |      |
-|              |김지연| "너의 기분 이모지(emoji)? - 감정기반 이모지 추천 시스템" |발표자료 |      |
-|              |홍원준| "의료데이터 기반의 데이터서비스 개발기" |발표자료 |      |
+|2019.05.15(수)|어수행| "Python에서 EMR데이터 (생존)분석" |[발표자료](data/EMR_Analysis_Python_Public.pdf) |      |
+|              |김지연| "너의 기분 이모지(emoji)? - 감정기반 이모지 추천 시스템" |[발표자료](data/모지모지최종.pdf) |      |
+|              |홍원준| "의료데이터 기반의 데이터서비스 개발기" |[발표자료](https://speakerdeck.com/hongwonjun/yiryodeiteo-gibanyi-deiteoseobiseu-gaebalgi) |      |
 |              |송효진| "Tidyverse Before and After" |[발표자료](data/송효진.pdf)|     |
 |2019.04.24(수)|이광춘| (한국) 데이터 과학자의 클라우드 서비스 |[발표자료](https://statkclee.github.io/ds-authoring/ds_meetup_ds_on_cloud.html) |      |
 |              |정도현|데이터 과학자를 위한 AWS 서비스 소개 | [발표자료](https://www.slideshare.net/JulienSIMON5/aws-reinvent-2018-machine-learning-recap-december-2018)| |
