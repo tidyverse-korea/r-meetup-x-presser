@@ -27,8 +27,8 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 - 일시 : 2019년 6월 19일 (수요일) 19:00 ~ 
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
 - 발표 :    
+    + 이광춘(삼정KPMG): "정규표현식 어디까지 배워야 하나?"
     + 서희(LG전자): "Reactlog로 Shiny 쉽게 디버깅하기"
-    + 황규인, [kini'n creations](https://kuduz.tistory.com/): "글쟁이에게 시각화"
     + 문건웅(가톨릭의대): "[Conditional Process Analysis using R](https://github.com/cardiomoon/processR)"
 - 도서 후원
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
@@ -61,7 +61,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 - 일시 : 2019년 7월 24일 (수요일) 19:00 ~ 
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
 - 발표 :    
-    + 이광춘: ["마케팅 - RFM 및 응용분야"](https://statkclee.github.io/ml/ml-pm-applications.html)
+    + 황규인, [kini'n creations](https://kuduz.tistory.com/): "글쟁이에게 시각화"
     + 안중호(대홍기획): "마케터를 위한 빅데이터"
     + 이현열, "개인 투자를 위한 금융 데이터 수집과 포트폴리오 구성" 
     + 이민호(카카오): "데이터분석가의 가벼운 개발환경 : Ipad로 작업해보기"
@@ -85,6 +85,15 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + [jamovi 통계프로그램의 이해와 활용](http://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=4308) (3권)
     + 제이펍 1권 - "데이터 분석/ R / 파이썬 교재를 선별"
 
+### 9월 데이터 사이언스 Meetup 모임 추진 계획
+
+- 일시 : 2019년 9월 19일 (수요일) 19:00 ~ 
+- 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
+- 발표 :    
+    + 이광춘: "문서를 이해하는 AI"
+- 도서 후원
+    + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
+    + 제이펍 1권 - "데이터 분석/ R / 파이썬 교재를 선별"
 
 <div class = "row">
   <div class = "col-md-3">
