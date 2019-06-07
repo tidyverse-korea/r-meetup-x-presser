@@ -25,7 +25,8 @@ R Meetup 시즌1부터 같은 연사분이 계속 발표를 진행함으로써 �
 R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분들이 모이는 밋업입니다.
 
 - 일시 : 2019년 6월 19일 (수요일) 19:00 ~ 
-- 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
+- 장소 : 스파크플러스 역삼점 &rarr; **스파크플러스 선릉점** (변경)
+    + 서울특별시 강남구 테헤란로 415 L7HOTEL 강남타워 2층 (선릉역 10번 출구 도보 1분)
 - 발표 :    
     + 이광춘(삼정KPMG): "정규표현식 어디까지 배워야 하나?"
     + 서희(LG전자): "Reactlog로 Shiny 쉽게 디버깅하기"
@@ -48,7 +49,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
   </div>
   <div class = "col-md-9">
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1409.97441664775!2d127.03604724882364!3d37.501185018013935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca3ff0220f31f%3A0x9e182993a28cf4c7!2z7Iqk7YyM7YGs7ZSM65-s7IqkIOyXreyCvOygkA!5e0!3m2!1sko!2skr!4v1542952267263" width="400" height="280" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.095974953578!2d127.04934465180337!3d37.50565447971032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca5694925c903%3A0xb51e0e6e1a31057f!2z7Iqk7YyM7YGs7ZSM65-s7IqkIOyEoOumieygkA!5e0!3m2!1sko!2skr!4v1559900729429!5m2!1sko!2skr" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
   </div>
 </div>
@@ -91,7 +92,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 - 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
 - 발표 :    
     + 이광춘(삼정KPMG): "문서를 이해하는 AI"
-    + 이재화(경희대): ""
+    + 이재화(경희대): "케라스를 활용한 RNN & LSTM 자유로운 모델링 방법"
 - 도서 후원
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
     + 제이펍 1권 - "데이터 분석/ R / 파이썬 교재를 선별"
