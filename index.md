@@ -28,7 +28,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 - 장소 : 스파크플러스 역삼점 &rarr; **스파크플러스 선릉점** (변경)
     + 서울특별시 강남구 테헤란로 415 L7HOTEL 강남타워 2층 (선릉역 10번 출구 도보 1분)
 - 발표 :    
-    + 이광춘(삼정KPMG): "정규표현식 어디까지 배워야 하나?"
+    + 이광춘(삼정KPMG): "[데이터 과학자의 글쓰기 - 재현가능한 논문작성](https://statkclee.github.io/author_carpentry_kr/)"
     + 서희(LG전자): "Reactlog로 Shiny 쉽게 디버깅하기"
     + 문건웅(가톨릭의대): "[Conditional Process Analysis using R](https://github.com/cardiomoon/processR)"
 - 도서 후원
