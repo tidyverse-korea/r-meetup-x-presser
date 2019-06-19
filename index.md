@@ -29,7 +29,8 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 서울특별시 강남구 테헤란로 415 L7HOTEL 강남타워 2층 (선릉역 10번 출구 도보 1분)
 - 발표 :    
     + 이광춘(삼정KPMG): "[데이터 과학자의 글쓰기 - 재현가능한 논문작성](https://statkclee.github.io/author_carpentry_kr/)"
-    + 서희(LG전자): "Reactlog로 Shiny 쉽게 디버깅하기"
+    + 서희(LG전자): ["Reactlog로 Shiny 쉽게 디버깅하기"](
+https://www.slideshare.net/HeeSeo/20190619-meetup-rshinyreactlogv01)
     + 문건웅(가톨릭의대): "[Conditional Process Analysis using R](https://github.com/cardiomoon/processR)" [1번](data/1.회귀에서_조절까지.pdf), [2번](data/2.회귀에서_매개모형으로.pdf), [3번](data/3.processR_패키지_소개.pdf), [4번](data/4.조건부_프로세스_분석_예제.pdf)
 - 도서 후원
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
