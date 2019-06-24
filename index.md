@@ -17,26 +17,25 @@ R Meetup 시즌1부터 같은 연사분이 계속 발표를 진행함으로써 �
 출현하면서 더 이상 R, 파이썬 등 언어중심으로 Meetup을 나눠 진행하는 것은 무의미해졌기 때문입니다.
 
 
-
-
-## 2. 6월 데이터 사이언스 Meetup 모임 안내
+## 2. 7월 데이터 사이언스 Meetup 모임 안내
 
 데이터 분석가와 과학자들이 만나 피자와 가벼운 맥주를 마시면서 세미나 듣는 방식으로 진행됩니다. 
 R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분들이 모이는 밋업입니다.
 
-- 일시 : 2019년 6월 19일 (수요일) 19:00 ~ 
-- 장소 : 스파크플러스 역삼점 &rarr; **스파크플러스 선릉점** (변경)
+- 일시 : 2019년 7월 24일 (수요일) 19:00 ~ 
+- 장소 : **스파크플러스 선릉점**
     + 서울특별시 강남구 테헤란로 415 L7HOTEL 강남타워 2층 (선릉역 10번 출구 도보 1분)
 - 발표 :    
-    + 이광춘(삼정KPMG): "[데이터 과학자의 글쓰기 - 재현가능한 논문작성](https://statkclee.github.io/author_carpentry_kr/)"
-    + 서희(LG전자): ["Reactlog로 Shiny 쉽게 디버깅하기"](
-https://www.slideshare.net/HeeSeo/20190619-meetup-rshinyreactlogv01)
-    + 문건웅(가톨릭의대): "[Conditional Process Analysis using R](https://github.com/cardiomoon/processR)" [1번](data/1.회귀에서_조절까지.pdf), [2번](data/2.회귀에서_매개모형으로.pdf), [3번](data/3.processR_패키지_소개.pdf), [4번](data/4.조건부_프로세스_분석_예제.pdf)
+    + 황규인, [kini'n creations](https://kuduz.tistory.com/): "글쟁이에게 시각화"
+    + 안중호(대홍기획): "마케터를 위한 빅데이터"
+    + 이현열(메리츠화재), "데이터사이언스로 이해하는 퀀트" 
+    + 이민호(카카오): "데이터분석가의 가벼운 개발환경 : Ipad로 작업해보기"
 - 도서 후원
+    + [우정훈 (KPMG), AI 사람에게 배우다 - 인공지능이 만드는 기업의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=195774023) (2권)
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
-    + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
+    + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (1권)
     + 제이펍 1권 - "데이터 분석/ R / 파이썬 교재를 선별"
-- 참가신청: [등록 사이트](https://festa.io/events/305) 6월1일 티켓 오픈
+- 참가신청: [등록 사이트](https://festa.io/events/355) 7월1일 티켓 오픈
     + 세미나 참석자(1만원), 뒷풀이 참가자(3만원)
 
 
@@ -58,19 +57,6 @@ https://www.slideshare.net/HeeSeo/20190619-meetup-rshinyreactlogv01)
 
 ## 3. 발표주제 및 발제자를 모십니다.
 
-### 7월 데이터 사이언스 Meetup 모임 추진 계획
-
-- 일시 : 2019년 7월 24일 (수요일) 19:00 ~ 
-- 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
-- 발표 :    
-    + 황규인, [kini'n creations](https://kuduz.tistory.com/): "글쟁이에게 시각화"
-    + 안중호(대홍기획): "마케터를 위한 빅데이터"
-    + 이현열(메리츠화재), "데이터사이언스로 이해하는 퀀트" 
-    + 이민호(카카오): "데이터분석가의 가벼운 개발환경 : Ipad로 작업해보기"
-- 도서 후원
-    + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
-    + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
-    + 제이펍 1권 - "데이터 분석/ R / 파이썬 교재를 선별"
     
 ### 8월 데이터 사이언스 Meetup 모임 추진 계획
 
@@ -122,6 +108,9 @@ https://www.slideshare.net/HeeSeo/20190619-meetup-rshinyreactlogv01)
 
 |    요일      |발표자|                 주제        |  발표자료   |     비고          |
 |--------------|------|-----------------------------|-------------|-------------------|
+|2019.06.19(수)|이광춘| "데이터 과학자의 글쓰기 - 재현가능한 논문작성" |[발표자료](https://statkclee.github.io/author_carpentry_kr/) |      |
+|              |서희| "Reactlog로 Shiny 쉽게 디버깅하기" |[발표자료](https://www.slideshare.net/HeeSeo/20190619-meetup-rshinyreactlogv01) |      |
+|              |문건웅| "Conditional Process Analysis using R" |[1번](data/1.회귀에서_조절까지.pdf), [2번](data/2.회귀에서_매개모형으로.pdf), [3번](data/3.processR_패키지_소개.pdf), [4번](data/4.조건부_프로세스_분석_예제.pdf) |      |
 |2019.05.15(수)|어수행| "Python에서 EMR데이터 (생존)분석" |[발표자료](data/EMR_Analysis_Python_Public.pdf) |      |
 |              |김지연| "너의 기분 이모지(emoji)? - 감정기반 이모지 추천 시스템" |[발표자료](data/모지모지최종.pdf) |      |
 |              |홍원준| "의료데이터 기반의 데이터서비스 개발기" |[발표자료](https://speakerdeck.com/hongwonjun/yiryodeiteo-gibanyi-deiteoseobiseu-gaebalgi) |      |
