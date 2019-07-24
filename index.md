@@ -29,7 +29,7 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + 이광춘(삼정 KPMG): ["앙상블 모형: R vs. Python"](https://statkclee.github.io/model/model-ensemble.html) 
     + 안중호(대홍기획): ["마케터를 위한 빅데이터"](data/190724_마케터를_위한_빅데이터_대홍기획_안중호.pdf)
     + 이현열(메리츠화재), ["데이터사이언스로 이해하는 퀀트"](https://docs.google.com/presentation/d/1pw0DIioZ2bc0pUOBWJKZZQuR3VTgiyeICq-s1Rqgxoc/) 
-    + 이민호(카카오): "데이터분석가의 가벼운 개발환경 : Ipad로 작업해보기"
+    + 이민호(카카오): ["데이터분석가의 가벼운 개발환경 : Ipad로 작업해보기"](data/DS_meetup_analysis_env_using_ipad_190723.pdf)
 - 도서 후원
     + [우정훈 (KPMG), AI 사람에게 배우다 - 인공지능이 만드는 기업의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=195774023) (2권)
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
