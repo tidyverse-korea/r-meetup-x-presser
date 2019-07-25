@@ -22,20 +22,20 @@ R Meetup 시즌1부터 같은 연사분이 계속 발표를 진행함으로써 �
 데이터 분석가와 과학자들이 만나 피자와 가벼운 맥주를 마시면서 세미나 듣는 방식으로 진행됩니다. 
 R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분들이 모이는 밋업입니다.
 
-- 일시 : 2019년 7월 24일 (수요일) 19:00 ~ 
+- 일시 : 2019년 8월 21일 (수요일) 19:00 ~ 
 - 장소 : **스파크플러스 선릉점**
     + 서울특별시 강남구 테헤란로 415 L7HOTEL 강남타워 2층 (선릉역 10번 출구 도보 1분)
 - 발표 :    
-    + 이광춘(삼정 KPMG): ["앙상블 모형: R vs. Python"](https://statkclee.github.io/model/model-ensemble.html) 
-    + 안중호(대홍기획): ["마케터를 위한 빅데이터"](data/190724_마케터를_위한_빅데이터_대홍기획_안중호.pdf)
-    + 이현열(메리츠화재), ["데이터사이언스로 이해하는 퀀트"](https://docs.google.com/presentation/d/1pw0DIioZ2bc0pUOBWJKZZQuR3VTgiyeICq-s1Rqgxoc/) 
-    + 이민호(카카오): ["데이터분석가의 가벼운 개발환경 : Ipad로 작업해보기"](data/DS_meetup_analysis_env_using_ipad_190723.pdf)
+    + 이광춘: "지도 - 공간 데이터 기본기"
+    + 한수미 (한림대): "파이썬으로!" (제목 미정)
+    + 설현수 (중앙대): "jamovi 통계 프로그램 소개"
+    + 안상선 (M로보): "위험하지 않은 마약 데이터 흡입 수기 : 마약으로 인한 사회적 비용 모형 추계 사례"
 - 도서 후원
     + [우정훈 (KPMG), AI 사람에게 배우다 - 인공지능이 만드는 기업의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=195774023) (2권)
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
-    + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (1권)
-    + 제이펍 1권 - "데이터 분석/ R / 파이썬 교재를 선별"
-- 참가신청: [등록 사이트](https://festa.io/events/355) 7월1일 티켓 오픈
+    + [jamovi 통계프로그램의 이해와 활용](http://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=4308) (3권)
+    + 제이펍 1권 - ["R로 배우는 텍스트 마이닝: tidytext 라이브러리를 활용하는 방법"](https://jpub.tistory.com/924)
+- 참가신청: [등록 사이트](https://festa.io/events/401) 8월1일 티켓 오픈
     + 세미나 참석자(1만원), 뒷풀이 참가자(3만원)
 
 
@@ -56,22 +56,6 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 
 
 ## 3. 발표주제 및 발제자를 모십니다.
-
-    
-### 8월 데이터 사이언스 Meetup 모임 추진 계획
-
-- 일시 : 2019년 8월 21일 (수요일) 19:00 ~ 
-- 장소 : 역삼역 아주빌딩 2층 스파크플러스 (미정)
-- 발표 :    
-    + 이광춘: "지도 - 공간 데이터 기본기"
-    + 한수미 (한림대): "파이썬으로!" (제목 미정)
-    + 설현수 (중앙대): "jamovi 통계 프로그램 소개"
-    + 안상선 (M로보): "위험하지 않은 마약 데이터 흡입 수기 : 마약으로 인한 사회적 비용 모형 추계 사례"
-- 도서 후원
-    + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
-    + [빅데이터 활용사전 419](http://www.yes24.com/Product/Goods/66880776?scode=032&OzSrank=1) (2권)
-    + [jamovi 통계프로그램의 이해와 활용](http://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=4308) (3권)
-    + 제이펍 1권 - "데이터 분석/ R / 파이썬 교재를 선별"
 
 ### 9월 데이터 사이언스 Meetup 모임 추진 계획
 
@@ -108,6 +92,10 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 
 |    요일      |발표자|                 주제        |  발표자료   |     비고          |
 |--------------|------|-----------------------------|-------------|-------------------|
+|2019.07.24(수)|이광춘| "앙상블 모형: R vs. Python" |[발표자료](https://statkclee.github.io/model/model-ensemble.html) |      |
+|              |안중호| "마케터를 위한 빅데이터" |[발표자료](data/190724_마케터를_위한_빅데이터_대홍기획_안중호.pdf) |      |
+|              |이현열| "데이터사이언스로 이해하는 퀀트" |[발표자료](https://docs.google.com/presentation/d/1pw0DIioZ2bc0pUOBWJKZZQuR3VTgiyeICq-s1Rqgxoc/) |      |
+|              |이민호| "데이터분석가의 가벼운 개발환경 : Ipad로 작업해보기" |[발표자료](data/DS_meetup_analysis_env_using_ipad_190723.pdf) |      |
 |2019.06.19(수)|이광춘| "데이터 과학자의 글쓰기 - 재현가능한 논문작성" |[발표자료](https://statkclee.github.io/author_carpentry_kr/) |      |
 |              |서희| "Reactlog로 Shiny 쉽게 디버깅하기" |[발표자료](https://www.slideshare.net/HeeSeo/20190619-meetup-rshinyreactlogv01) |      |
 |              |문건웅| "Conditional Process Analysis using R" |[1번](data/1.회귀에서_조절까지.pdf), [2번](data/2.회귀에서_매개모형으로.pdf), [3번](data/3.processR_패키지_소개.pdf), [4번](data/4.조건부_프로세스_분석_예제.pdf) |      |
