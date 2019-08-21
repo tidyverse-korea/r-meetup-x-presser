@@ -26,9 +26,9 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 - 장소 : **스파크플러스 선릉점**
     + 서울특별시 강남구 테헤란로 415 L7HOTEL 강남타워 2층 (선릉역 10번 출구 도보 1분)
 - 발표 :    
-    + 이광춘 (삼정KPMG): "데이터베이스와 `tidypredict`"
-    + 한수미/남내현 (한림대): "머신러닝을 이용한 사학빅데이터 분석"
-    + 설현수 (중앙대): "jamovi 통계 프로그램 소개"
+    + 이광춘 (삼정KPMG): ["`tidyverse` 모형 `tidymodels`"](https://statkclee.github.io/model/tidyverse-model.html)
+    + 한수미/남내현 (한림대): ["사학 학술연구논문 빅데이터 분석-키워드와 토픽모델링 분석을 중심으로"](http://tiny.cc/0lihbz)
+    + 설현수 (중앙대): ["jamovi 통계 프로그램 소개"](data/meetup_설현수.ppt)
     + 안상선 (M로보): "위험하지 않은 마약 데이터 흡입 수기 : 마약으로 인한 사회적 비용 모형 추계 사례"
 - 도서 후원
     + [우정훈 (KPMG), AI 사람에게 배우다 - 인공지능이 만드는 기업의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=195774023) (2권)
