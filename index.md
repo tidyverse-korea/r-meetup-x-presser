@@ -34,7 +34,8 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
     + [우정훈 (KPMG), AI 사람에게 배우다 - 인공지능이 만드는 기업의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=195774023) (2권)
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
     + 제이펍 1권 - ["R로 배우는 텍스트 마이닝: tidytext 라이브러리를 활용하는 방법"](https://jpub.tistory.com/924)
-- 참가신청: [등록 사이트](https://festa.io/events/474) 9월1일 티켓 오픈
+    + 이현열 - [R을 이용한 퀀트 투자 포트폴리오 만들기](http://www.yes24.com/Product/Goods/78125551), 제이펍 2권
+- 참가신청: [등록 사이트](https://festa.io/events/474) 9월1일 티켓 오픈    
     + 세미나 참석자(1만원), 뒷풀이 참가자(3만원)
 - 뒷풀이 장소: [도쿄짬뽕0820 선릉1호점](http://naver.me/GgZ3Eezb)
     + 주소: 서울특별시 강남구 테헤란로63길 8 (서울특별시 강남구 삼성동 142-5), 02-555-0927
