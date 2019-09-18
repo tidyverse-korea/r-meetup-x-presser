@@ -26,10 +26,10 @@ R 뿐만 아니라 파이썬을 비롯한 데이터 사이언스 하시는 분�
 - 장소 : **스파크플러스 역삼점** (선릉점에서 역삼점으로 변경됨)
     + 서울특별시 강남구 역삼동 테헤란로 201 스파크플러스 역삼점 (역삼역 8번 출구)
 - 발표 :    
-    + 이광춘(삼정KPMG): "문서를 이해하는 AI"
-    + 이재화(경희대): "케라스를 활용한 RNN & LSTM 자유로운 모델링 방법"
-    + 나성호(한양대): "R로 하는 RPA"
-    + 윤정환([OP.GG](https://www.op.gg/), 오피지지): "이스포츠에서의 데이터 분석"
+    + 이광춘(삼정KPMG): ["문서를 이해하는 AI"](https://statkclee.github.io/ds-authoring/ds-document-ai.html)
+    + 이재화(경희대): ["케라스를 활용한 RNN & LSTM 자유로운 모델링 방법"](data/이재화.pdf)
+    + 나성호(한양대): ["R로 하는 RPA"](https://bit.ly/2kGtKqf)
+    + 윤정환([OP.GG](https://www.op.gg/), 오피지지): ["이스포츠에서의 데이터 분석"](data/esports - DataScienceMeetUp.pdf)
 - 도서 후원
     + [우정훈 (KPMG), AI 사람에게 배우다 - 인공지능이 만드는 기업의 미래](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=195774023) (2권)
     + [Do it! 쉽게 배우는 R 데이터 분석](https://bit.ly/2TzaSJa) (1권) 
